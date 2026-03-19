@@ -97,5 +97,5 @@ Scryfall's API is free and publicly accessible with no authentication required. 
 
 ## Author
 
-Created for STAT 386 — Data Science Process & Applications  
+Created for STAT 386 — Data Science Process 
 Seth Kelly | Brigham Young University
