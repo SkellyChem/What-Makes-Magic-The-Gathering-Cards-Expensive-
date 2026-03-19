@@ -1,0 +1,1001 @@
+card_name,card_price,foil_price,colors,mana_cost,commander_legal,rarity,card_type,release_year
+Timetwister,5142.02,,['U'],3.0,legal,rare,Sorcery,1993
+Mox Sapphire,3900.0,,[],0.0,banned,rare,Artifact,1993
+Mox Emerald,3600.0,,[],0.0,banned,rare,Artifact,1993
+Time Walk,3200.0,,['U'],2.0,banned,rare,Sorcery,1993
+Mishra's Workshop,3000.32,,[],0.0,legal,rare,Land,1994
+The Tabernacle at Pendrell Vale,2999.99,,[],0.0,legal,rare,Legendary Land,1994
+Juzám Djinn,2885.0,,['B'],4.0,legal,rare,Creature — Djinn,1993
+Mox Jet,2800.0,,[],0.0,banned,rare,Artifact,1993
+Mox Pearl,2500.0,,[],0.0,banned,rare,Artifact,1993
+Candelabra of Tawnos,2200.0,,[],1.0,legal,rare,Artifact,1994
+Bazaar of Baghdad,1699.0,,[],0.0,legal,uncommon,Land,1993
+Library of Alexandria,1332.75,,[],0.0,banned,uncommon,Land,1993
+Gaea's Cradle,1176.41,,[],0.0,legal,rare,Legendary Land,1998
+Chains of Mephistopheles,1037.57,,['B'],2.0,legal,rare,Enchantment,1994
+Mox Diamond,938.97,,[],0.0,legal,rare,Artifact,1998
+Moat,849.99,,['W'],4.0,legal,rare,Enchantment,1994
+Time Vault,785.0,,[],2.0,banned,rare,Artifact,1993
+Chaos Orb,689.31,,[],2.0,banned,rare,Artifact,1993
+The Abyss,674.01,,['B'],4.0,legal,rare,World Enchantment,1994
+Nether Void,630.08,,['B'],4.0,legal,rare,World Enchantment,1994
+Lion's Eye Diamond,626.41,,[],0.0,legal,rare,Artifact,1996
+Forcefield,600.0,,[],3.0,legal,rare,Artifact,1993
+Diamond Valley,504.45,,[],0.0,legal,rare,Land,1993
+All Hallow's Eve,503.17,,['B'],4.0,legal,rare,Sorcery,1994
+Guardian Beast,502.05,,['B'],4.0,legal,rare,Creature — Beast,1993
+Riding the Dilu Horse,499.7,,['G'],3.0,legal,rare,Sorcery,1999
+City of Traitors,467.71,,[],0.0,legal,rare,Land,1998
+Shahrazad,455.33,,['W'],2.0,banned,rare,Sorcery,1993
+Eureka,453.49,,['G'],4.0,legal,rare,Sorcery,1994
+Gauntlet of Might,449.19,,[],4.0,legal,rare,Artifact,1993
+Drop of Honey,433.32,,['G'],1.0,legal,rare,Enchantment,1993
+Grim Monolith,424.85,2385.47,[],2.0,legal,rare,Artifact,1999
+Zodiac Dragon,424.49,,['R'],9.0,legal,rare,Creature — Dragon,1999
+City in a Bottle,401.69,,[],2.0,legal,rare,Artifact,1993
+Transmute Artifact,387.18,,['U'],2.0,legal,uncommon,Sorcery,1994
+Serra's Sanctum,358.21,,[],0.0,legal,rare,Legendary Land,1998
+Ali from Cairo,352.41,,['R'],4.0,legal,rare,Creature — Human,1993
+Mirror Universe,333.15,,[],6.0,legal,rare,Artifact,1994
+Sliver Queen,311.01,,"['B', 'G', 'R', 'U', 'W']",5.0,legal,rare,Legendary Creature — Sliver,1998
+Elephant Graveyard,291.0,,[],0.0,legal,rare,Land,1993
+Survival of the Fittest,268.32,,['G'],2.0,legal,rare,Enchantment,1998
+Word of Command,266.25,,['B'],2.0,legal,rare,Instant,1993
+Intuition,249.83,,['U'],3.0,legal,rare,Instant,1997
+Island of Wak-Wak,235.12,,[],0.0,legal,rare,Land,1993
+Angus Mackenzie,225.38,,"['G', 'U', 'W']",3.0,legal,rare,Legendary Creature — Human Cleric,1994
+Ravages of War,224.66,,['W'],4.0,legal,rare,Sorcery,1999
+Phyrexian Dreadnought,223.21,,[],1.0,legal,rare,Artifact Creature — Phyrexian Dreadnought,1996
+Gwendlyn Di Corci,219.6,,"['B', 'R', 'U']",4.0,legal,rare,Legendary Creature — Human Rogue,1994
+Illusionary Mask,199.24,,[],2.0,legal,rare,Artifact,1993
+Yawgmoth's Will,197.62,,['B'],3.0,legal,rare,Sorcery,1998
+Mox Opal,191.56,217.51,[],0.0,legal,mythic,Legendary Artifact,2020
+Old Man of the Sea,190.0,,['U'],3.0,legal,rare,Creature — Djinn,1993
+In the Eye of Chaos,187.99,,['U'],3.0,legal,rare,World Enchantment,1994
+"Xiahou Dun, the One-Eyed",183.47,,['B'],4.0,legal,rare,Legendary Creature — Human Soldier,1999
+Living Plane,181.1,,['G'],4.0,legal,rare,World Enchantment,1994
+"Zhang Fei, Fierce Warrior",179.28,,['W'],6.0,legal,rare,Legendary Creature — Human Soldier Warrior,1999
+Ifh-Bíff Efreet,174.25,,['G'],4.0,legal,rare,Creature — Efreet,1993
+Gilded Drake,173.99,,['U'],2.0,legal,rare,Creature — Drake,1998
+"Dong Zhou, the Tyrant",173.0,,['R'],5.0,legal,rare,Legendary Creature — Human Soldier,1999
+Tolarian Academy,166.48,,[],0.0,banned,rare,Legendary Land,1998
+Metalworker,162.75,2499.0,[],3.0,legal,rare,Artifact Creature — Construct,1999
+Serendib Djinn,160.99,,['U'],4.0,legal,rare,Creature — Djinn,1993
+Power Artifact,159.61,,['U'],2.0,legal,uncommon,Enchantment — Aura,1994
+Singing Tree,148.51,,['G'],4.0,legal,rare,Creature — Plant,1993
+Hazezon Tamar,148.42,,"['G', 'R', 'W']",7.0,legal,rare,Legendary Creature — Human Warrior,1994
+Divine Intervention,147.89,,['W'],8.0,legal,rare,Enchantment,1994
+Replenish,146.64,615.0,['W'],4.0,legal,rare,Sorcery,1999
+Imperial Seal,146.22,150.57,['B'],1.0,legal,mythic,Sorcery,2022
+Lich,144.9,,['B'],4.0,legal,rare,Enchantment,1993
+Raging River,143.32,,['R'],2.0,legal,rare,Enchantment,1993
+Chrome Mox,141.8,140.43,[],0.0,legal,mythic,Artifact,2020
+Earthcraft,137.97,,['G'],2.0,legal,rare,Enchantment,1997
+Argivian Archaeologist,131.2,,['W'],3.0,legal,rare,Creature — Human Artificer,1994
+"Sun Ce, Young Conquerer",125.53,,['U'],5.0,legal,rare,Legendary Creature — Human Soldier,1999
+Rasputin Dreamweaver,124.78,,"['U', 'W']",6.0,legal,rare,Legendary Creature — Human Wizard,1994
+"Lu Bu, Master-at-Arms",124.35,,['R'],6.0,legal,rare,Legendary Creature — Human Soldier Warrior,1999
+"Lady Zhurong, Warrior Queen",123.6,,['G'],5.0,legal,rare,Legendary Creature — Human Soldier Warrior,1999
+Tawnos's Coffin,122.55,,[],4.0,legal,rare,Artifact,1994
+Ring of Ma'rûf,122.09,,[],5.0,legal,rare,Artifact,1993
+Lady Sun,120.0,,['U'],3.0,legal,rare,Legendary Creature — Human Advisor,1999
+Null Rod,119.77,,[],2.0,legal,rare,Artifact,1997
+Field of Dreams,117.66,,['U'],1.0,legal,rare,World Enchantment,1994
+"Jaws, Relentless Predator",117.01,,['R'],5.0,legal,mythic,Legendary Creature — Shark,2025
+Pyramids,116.97,,[],6.0,legal,rare,Artifact,1993
+Falling Star,116.24,,['R'],3.0,banned,rare,Sorcery,1994
+"Yuan Shao, the Indecisive",115.49,,['R'],5.0,legal,rare,Legendary Creature — Human Soldier,1999
+The Fourteenth Doctor,113.33,117.56,"['G', 'R', 'U', 'W']",3.0,legal,rare,Legendary Creature — Time Lord Doctor,2023
+Wolf Pack,112.99,,['G'],8.0,legal,rare,Creature — Wolf,1999
+Land Equilibrium,110.88,,['U'],4.0,legal,rare,Enchantment,1994
+Thunder Spirit,110.72,,['W'],3.0,legal,rare,Creature — Elemental Spirit,1994
+Ancient Tomb,109.97,119.0,[],0.0,legal,rare,Land,2018
+Khabál Ghoul,108.44,,['B'],3.0,legal,uncommon,Creature — Zombie,1993
+"Diaochan, Artful Beauty",106.35,,['R'],4.0,legal,rare,Legendary Creature — Human Advisor,1999
+The One Ring,106.03,132.95,[],4.0,legal,mythic,Legendary Artifact,2023
+King Suleiman,105.16,,['W'],2.0,legal,rare,Creature — Human Noble,1993
+"Zhao Zilong, Tiger General",104.25,,['W'],5.0,legal,rare,Legendary Creature — Human Soldier Warrior,1999
+"Huang Zhong, Shu General",104.07,,['W'],4.0,legal,rare,Legendary Creature — Human Soldier,1999
+"Cao Ren, Wei Commander",101.64,,['B'],4.0,legal,rare,Legendary Creature — Human Soldier Warrior,1999
+Hellfire,101.39,,['B'],5.0,legal,rare,Sorcery,1994
+Blaze of Glory,101.18,,['W'],1.0,legal,rare,Instant,1993
+Su-Chi,100.31,,[],4.0,legal,uncommon,Artifact Creature — Construct,1994
+Sword of the Ages,99.7,,[],6.0,legal,rare,Artifact,1994
+Mana Vault,97.5,114.74,[],1.0,legal,mythic,Artifact,2022
+Ancient Copper Dragon,96.21,94.19,['R'],6.0,legal,mythic,Creature — Elder Dragon,2022
+Time Spiral,96.1,,['U'],6.0,legal,rare,Sorcery,1998
+Borrowing the East Wind,95.69,,['G'],2.0,legal,rare,Sorcery,1999
+The Coming of Galactus,95.0,,"['B', 'G']",5.0,not_legal,mythic,Enchantment — Saga,2026
+Bruce Banner // The Incredible Hulk,93.75,104.99,[],1.0,not_legal,mythic,Legendary Creature — Human Scientist Hero // Legendary Creature — Gamma Berserker Hero,2026
+Acid Rain,93.74,,['U'],4.0,legal,rare,Sorcery,1994
+Volrath's Stronghold,93.27,,[],0.0,legal,rare,Legendary Land,1998
+"Sheoldred, the Apocalypse",91.51,94.73,['B'],4.0,legal,mythic,Legendary Creature — Phyrexian Praetor,2022
+Lake of the Dead,91.16,,[],0.0,legal,rare,Land,1996
+Squandered Resources,90.69,,"['B', 'G']",2.0,legal,rare,Enchantment,1997
+Namor the Sub-Mariner,90.0,,['U'],3.0,not_legal,mythic,Legendary Creature — Mutant Merfolk Villain,2026
+"Captain America, Super-Soldier",90.0,,['W'],3.0,not_legal,mythic,Legendary Creature — Human Soldier Hero,2026
+Overwhelming Forces,89.99,,['B'],8.0,legal,rare,Sorcery,1999
+Spectacular Spider-Man,88.69,368.82,['W'],2.0,legal,rare,Legendary Creature — Spider Human Hero,2025
+"Zhang He, Wei General",84.32,,['B'],5.0,legal,rare,Legendary Creature — Human Soldier,1999
+Cyclopean Tomb,81.29,,[],4.0,legal,rare,Artifact,1993
+Natural Selection,79.86,,['G'],1.0,legal,rare,Instant,1993
+"Meng Huo, Barbarian King",79.17,,['G'],5.0,legal,rare,Legendary Creature — Human Barbarian Soldier,1999
+"Jin Sakai, Ghost of Tsushima",77.69,,"['B', 'U', 'W']",4.0,legal,mythic,Legendary Creature — Human Samurai,2025
+Aluren,76.31,,['G'],4.0,legal,rare,Enchantment,1997
+Jeweled Lotus,75.35,84.33,[],0.0,banned,mythic,Artifact,2023
+Recurring Nightmare,75.08,,['B'],3.0,banned,rare,Enchantment,1998
+"Lu Meng, Wu General",74.98,,['U'],5.0,legal,rare,Legendary Creature — Human Soldier,1999
+Hunting Velociraptor,73.61,85.22,['R'],3.0,legal,rare,Creature — Dinosaur,2023
+Deranged Hermit,73.56,361.66,['G'],5.0,legal,rare,Creature — Elf,1999
+Goblin Wizard,72.79,,['R'],4.0,legal,rare,Creature — Goblin Wizard,1994
+Ydwen Efreet,72.57,,['R'],3.0,legal,rare,Creature — Efreet,1993
+"Ma Chao, Western Warrior",72.19,,['R'],5.0,legal,rare,Legendary Creature — Human Soldier Warrior,1999
+Cursed Scroll,71.91,,[],1.0,legal,rare,Artifact,1997
+Academy Rector,71.46,588.17,['W'],4.0,legal,rare,Creature — Human Cleric,1999
+Powder Keg,70.48,347.3,[],2.0,legal,rare,Artifact,1999
+Mox Amber,70.39,129.46,[],0.0,legal,mythic,Legendary Artifact,2018
+Planar Gate,69.88,,[],6.0,legal,rare,Artifact,1994
+Yavimaya Hollow,69.81,547.99,[],0.0,legal,rare,Legendary Land,1999
+"Zhuge Jin, Wu Strategist",69.68,,['U'],3.0,legal,rare,Legendary Creature — Human Advisor,1999
+Adun Oakenshield,69.44,,"['B', 'G', 'R']",3.0,legal,rare,Legendary Creature — Human Knight,1994
+"Guan Yu, Sainted Warrior",68.95,,['W'],5.0,legal,rare,Legendary Creature — Human Soldier Warrior,1999
+Caverns of Despair,68.87,,['R'],4.0,legal,rare,World Enchantment,1994
+Two-Headed Giant of Foriys,68.52,,['R'],5.0,legal,rare,Creature — Giant,1993
+Force of Will,68.48,71.5,['U'],5.0,legal,mythic,Instant,2023
+Vampiric Tutor,68.04,63.69,['B'],1.0,legal,mythic,Instant,2023
+Copper Tablet,67.39,,[],2.0,legal,uncommon,Artifact,1993
+Painter's Servant,67.38,130.99,[],2.0,legal,rare,Artifact Creature — Scarecrow,2008
+Al-abara's Carpet,67.36,,[],5.0,legal,rare,Artifact,1994
+Willow Satyr,67.25,,['G'],4.0,legal,rare,Creature — Satyr,1994
+Deflecting Swat,66.81,74.48,['R'],3.0,legal,rare,Instant,2023
+"Eladamri, Lord of Leaves",66.33,,['G'],2.0,legal,rare,Legendary Creature — Elf Warrior,1997
+Marshaling the Troops,65.87,,['G'],2.0,legal,rare,Sorcery,1999
+Ashcoat of the Shadow Swarm,64.94,,['B'],4.0,legal,mythic,Legendary Creature — Rat Warlock,2022
+"Rofellos, Llanowar Emissary",64.53,415.16,['G'],2.0,banned,rare,Legendary Creature — Elf Druid,1999
+The Ozolith,63.4,60.12,[],1.0,legal,rare,Legendary Artifact,2020
+Gaea's Avenger,62.96,,['G'],3.0,legal,rare,Creature — Treefolk,1994
+The Great Henge,62.87,68.09,['G'],9.0,legal,mythic,Legendary Artifact,2023
+"Greymond, Avacyn's Stalwart",62.55,,['W'],4.0,legal,mythic,Legendary Creature — Human Soldier,2023
+The Soul Stone,62.17,77.69,['B'],2.0,legal,mythic,Legendary Artifact — Infinity Stone,2025
+Tetsuo Umezawa,62.17,,"['B', 'R', 'U']",3.0,legal,rare,Legendary Creature — Human Archer,1994
+Kobold Overlord,62.01,,['R'],2.0,legal,rare,Creature — Kobold,1994
+Demonic Tutor,61.85,66.01,['B'],2.0,legal,mythic,Sorcery,2023
+"Zhang Liao, Hero of Hefei",60.99,,['B'],6.0,legal,rare,Legendary Creature — Human Soldier,1999
+Slashing Tiger,60.74,,['G'],4.0,legal,rare,Creature — Cat,1999
+Eye of Ugin,60.33,65.77,[],0.0,legal,rare,Legendary Land,2015
+Shallow Grave,60.27,,['B'],2.0,legal,rare,Instant,1996
+Mana Matrix,59.8,,[],6.0,legal,rare,Artifact,1994
+Rhystic Study,58.23,,['U'],3.0,legal,rare,Enchantment,2020
+Ancient Silver Dragon,57.91,52.4,['U'],8.0,legal,mythic,Creature — Elder Dragon,2022
+Tombstone Stairwell,56.93,,['B'],4.0,legal,rare,World Enchantment,1996
+Scorched Ruins,56.35,,[],0.0,legal,rare,Land,1997
+Eightfold Maze,55.89,,['W'],3.0,legal,rare,Instant,1999
+"Minamo, School at Water's Edge",55.63,256.48,[],0.0,legal,rare,Legendary Land,2004
+Fierce Guardianship,55.49,56.54,['U'],3.0,legal,rare,Instant,2023
+Parallax Tide,55.42,230.99,['U'],4.0,legal,rare,Enchantment,2000
+Humility,55.03,,['W'],4.0,legal,rare,Enchantment,1997
+Taoist Mystic,55.0,,['G'],3.0,legal,rare,Creature — Human Mystic,1999
+Roaming Throne,54.65,63.76,[],4.0,legal,rare,Artifact Creature — Golem,2023
+Esper Sentinel,53.97,64.32,['W'],1.0,legal,rare,Artifact Creature — Human Soldier,2021
+Archangel of Thune,53.66,65.14,['W'],5.0,legal,mythic,Creature — Angel,2020
+Piracy,53.54,,['U'],2.0,legal,rare,Sorcery,1999
+Mana Echoes,53.37,53.75,['R'],4.0,legal,mythic,Enchantment,2020
+Spinal Villain,52.39,,['R'],3.0,legal,rare,Creature — Beast,1994
+"Urborg, Tomb of Yawgmoth",52.32,64.34,[],0.0,legal,rare,Legendary Land,2021
+Anointed Procession,51.96,74.69,['W'],4.0,legal,rare,Enchantment,2017
+Cavern of Souls,51.89,49.97,[],0.0,legal,mythic,Land,2023
+Sword of Fire and Ice,51.81,49.85,[],3.0,legal,mythic,Artifact — Equipment,2020
+Gravity Sphere,51.68,,['R'],3.0,legal,rare,World Enchantment,1994
+Gate to Phyrexia,51.65,,['B'],2.0,legal,uncommon,Enchantment,1994
+Teferi's Protection,51.57,54.99,['W'],3.0,legal,rare,Instant,2022
+City of Shadows,51.53,,[],0.0,legal,rare,Land,1994
+"Guan Yu's 1,000-Li March",51.32,,['W'],6.0,legal,rare,Sorcery,1999
+Ravenous Tyrannosaurus,51.24,66.35,"['G', 'R']",6.0,legal,rare,Creature — Dinosaur,2023
+Allosaurus Shepherd,50.99,48.7,['G'],1.0,legal,mythic,Creature — Elf Shaman,2022
+Badgermole Cub,50.96,57.02,['G'],2.0,legal,mythic,Creature — Badger Mole,2025
+"Vorinclex, Monstrous Raider",50.93,48.81,['G'],6.0,legal,mythic,Legendary Creature — Phyrexian Praetor,2021
+Amulet of Vigor,50.9,65.72,[],1.0,legal,rare,Artifact,2010
+"Xun Yu, Wei Advisor",50.61,,['B'],3.0,legal,rare,Legendary Creature — Human Advisor,1999
+Ice Storm,50.53,,['G'],3.0,legal,uncommon,Sorcery,1993
+Mana Drain,50.5,53.1,['U'],2.0,legal,mythic,Instant,2022
+Smothering Tithe,50.05,53.31,['W'],4.0,legal,mythic,Enchantment,2023
+Zodiac Rat,50.02,,['B'],1.0,legal,common,Creature — Rat,1999
+Human Torch,49.99,,['R'],4.0,not_legal,mythic,Legendary Creature — Human Hero,2026
+"Lorehold, the Historian",49.99,79.99,"['R', 'W']",5.0,not_legal,mythic,Legendary Creature — Elder Dragon,2026
+Zodiac Horse,49.97,,['G'],4.0,legal,uncommon,Creature — Horse,1999
+Norwood Priestess,49.96,,['G'],4.0,legal,rare,Creature — Elf Druid,1998
+Phyrexian Altar,49.81,58.8,[],3.0,legal,rare,Artifact,2022
+"Zhou Yu, Chief Commander",49.72,,['U'],7.0,legal,rare,Legendary Creature — Human Soldier,1999
+Hatred,48.93,,['B'],5.0,legal,rare,Instant,1998
+Mana Crypt,48.61,64.69,[],0.0,banned,mythic,Artifact,2020
+Sliver Legion,48.01,69.54,"['B', 'G', 'R', 'U', 'W']",5.0,legal,mythic,Legendary Creature — Sliver,2021
+World War Hulk,48.0,59.99,['G'],5.0,not_legal,rare,Enchantment — Saga,2026
+"The Sentry, Golden Guardian",48.0,,['W'],4.0,not_legal,rare,Legendary Creature — Human Hero,2026
+"Lara Croft, Tomb Raider",47.97,51.41,"['G', 'R', 'U']",3.0,legal,mythic,Legendary Creature — Human Ranger,2023
+Darksteel Forge,47.68,54.93,[],9.0,legal,mythic,Artifact,2020
+"Pang Tong, ""Young Phoenix""",47.18,,['W'],3.0,legal,rare,Legendary Creature — Human Advisor,1999
+Zodiac Pig,47.17,,['B'],4.0,legal,uncommon,Creature — Boar,1999
+Lifeline,47.16,,[],5.0,legal,rare,Artifact,1998
+Sliver Overlord,47.1,230.6,"['B', 'G', 'R', 'U', 'W']",5.0,legal,rare,Legendary Creature — Sliver Mutant,2003
+Kongming's Contraptions,46.89,,['W'],4.0,legal,rare,Creature — Human Soldier,1999
+Scapeshift,46.87,84.76,['G'],4.0,legal,mythic,Sorcery,2018
+Burning of Xinye,46.68,,['R'],6.0,legal,rare,Sorcery,1999
+Sylvan Tutor,46.56,,['G'],1.0,legal,rare,Sorcery,1997
+Merchant Ship,46.4,,['U'],1.0,legal,uncommon,Creature — Human,1993
+Spitting Dilophosaurus,46.38,64.36,['B'],3.0,legal,rare,Creature — Dinosaur,2023
+Knowledge Vault,46.21,,[],4.0,legal,rare,Artifact,1994
+Orcish Bowmasters,45.98,43.72,['B'],2.0,legal,rare,Creature — Orc Archer,2023
+"Boseiju, Who Endures",45.94,47.57,[],0.0,legal,rare,Legendary Land,2022
+Empty City Ruse,45.94,,['W'],1.0,legal,uncommon,Sorcery,1999
+Crumbling Ashes,45.81,48.61,['B'],2.0,legal,uncommon,Enchantment,2008
+"Animar, Soul of Elements",45.73,49.62,"['G', 'R', 'U']",3.0,legal,mythic,Legendary Creature — Elemental,2022
+Food Chain,45.62,47.49,['G'],3.0,legal,mythic,Enchantment,2022
+Taunting Challenge,45.49,,['G'],3.0,legal,rare,Sorcery,1999
+Stone Catapult,45.49,,['B'],5.0,legal,rare,Creature — Human Soldier,1999
+Commander's Plate,44.89,46.38,[],1.0,legal,mythic,Artifact — Equipment,2020
+Force of Negation,44.88,58.95,['U'],3.0,legal,rare,Instant,2022
+"Nykthos, Shrine to Nyx",44.85,97.65,[],0.0,legal,rare,Legendary Land,2013
+"Kratos, God of War",44.58,59.74,['R'],3.0,legal,mythic,Legendary Creature — God Warrior,2025
+Jeska's Will,44.48,,['R'],3.0,legal,rare,Sorcery,2024
+Maralen of the Mornsong,44.35,104.5,['B'],3.0,legal,rare,Legendary Creature — Elf Wizard,2008
+Old Gnawbone,44.34,50.63,['G'],7.0,legal,mythic,Legendary Creature — Dragon,2021
+Storm World,44.19,,['R'],1.0,legal,rare,World Enchantment,1994
+Palinchron,44.06,418.35,['U'],7.0,legal,rare,Creature — Illusion,1999
+Ramses Overdark,43.8,,"['B', 'U']",6.0,legal,rare,Legendary Creature — Human Assassin,1994
+"Ragavan, Nimble Pilferer",43.78,45.55,['R'],1.0,legal,mythic,Legendary Creature — Monkey Pirate,2021
+"Bristly Bill, Spine Sower",43.56,44.48,['G'],2.0,legal,mythic,Legendary Creature — Plant Druid,2024
+Disharmony,43.52,,['R'],3.0,legal,rare,Instant,1994
+"Lu Su, Wu Advisor",43.52,,['U'],5.0,legal,rare,Legendary Creature — Human Advisor,1999
+"Cao Cao, Lord of Wei",42.73,,['B'],5.0,legal,rare,Legendary Creature — Human Soldier,1999
+Argothian Enchantress,42.7,79.5,['G'],2.0,legal,mythic,Creature — Human Druid,2016
+"Kozilek, Butcher of Truth",42.66,47.08,[],10.0,legal,mythic,Legendary Creature — Eldrazi,2022
+Firestorm,42.52,,['R'],1.0,legal,rare,Instant,1997
+"Zuo Ci, the Mocking Sage",42.34,,['G'],3.0,legal,rare,Legendary Creature — Human Advisor,1999
+Mind Over Matter,41.86,,['U'],6.0,legal,rare,Enchantment,1998
+Rohgahh of Kher Keep,41.82,,"['B', 'R']",6.0,legal,rare,Legendary Creature — Kobold,1994
+Cyclonic Rift,41.81,41.18,['U'],2.0,legal,mythic,Instant,2024
+Masticore,41.74,349.24,[],4.0,legal,rare,Artifact Creature — Masticore,1999
+Ancient Brass Dragon,41.64,35.92,['B'],7.0,legal,mythic,Creature — Elder Dragon,2022
+Gemstone Caverns,41.34,88.89,[],0.0,legal,mythic,Legendary Land,2021
+Bruvac the Grandiloquent,41.33,41.5,['U'],3.0,legal,mythic,Legendary Creature — Human Advisor,2024
+Cruel Tutor,41.29,,['B'],3.0,legal,rare,Sorcery,1997
+Biorhythm,41.12,,['G'],8.0,legal,rare,Sorcery,2005
+Flash Photography,41.02,34.4,['U'],4.0,legal,rare,Sorcery,2025
+Edgar Markov,40.76,40.08,"['B', 'R', 'W']",6.0,legal,mythic,Legendary Creature — Vampire Knight,2025
+Zodiac Tiger,40.51,,['G'],4.0,legal,uncommon,Creature — Cat,1999
+"Elspeth, Storm Slayer",40.43,43.25,['W'],5.0,legal,mythic,Legendary Planeswalker — Elspeth,2025
+"Toph, Earthbending Master",40.31,46.97,['G'],4.0,legal,mythic,Legendary Creature — Human Warrior Ally,2025
+Phyrexian Devourer,40.28,,[],6.0,legal,rare,Artifact Creature — Phyrexian Construct,1996
+Sword of Feast and Famine,40.13,51.0,[],3.0,legal,mythic,Artifact — Equipment,2020
+Anvil of Bogardan,40.01,,[],2.0,legal,rare,Artifact,1997
+"Wan Shi Tong, Librarian",39.55,45.42,['U'],2.0,legal,mythic,Legendary Creature — Bird Spirit,2025
+Treachery,39.46,,['U'],5.0,legal,rare,Enchantment — Aura,1999
+Shadowspear,39.4,45.07,[],1.0,legal,rare,Legendary Artifact — Equipment,2020
+Ocelot Pride,39.36,39.47,['W'],1.0,legal,mythic,Creature — Cat,2024
+Ouroboroid,39.08,41.4,['G'],4.0,legal,mythic,Creature — Plant Wurm,2025
+Sensei's Divining Top,38.93,40.47,[],1.0,legal,rare,Artifact,2022
+Finale of Devastation,38.86,39.46,['G'],2.0,legal,mythic,Sorcery,2023
+Harbinger of Night,38.65,,['B'],4.0,legal,rare,Creature — Spirit,1996
+The First Sliver,38.53,68.11,"['B', 'G', 'R', 'U', 'W']",5.0,legal,mythic,Legendary Creature — Sliver,2019
+Lotus Vale,38.43,,[],0.0,legal,rare,Land,1997
+Mycosynth Lattice,38.22,51.56,[],6.0,legal,mythic,Artifact,2018
+Urza's Saga,38.11,66.03,[],0.0,legal,rare,Enchantment Land — Urza's Saga,2021
+Vivi's Persistence,38.03,36.74,['R'],2.0,legal,rare,Instant,2025
+"Mondrak, Glory Dominus",37.92,39.06,['W'],4.0,legal,mythic,Legendary Creature — Phyrexian Horror,2023
+Lotus Petal,37.89,,[],0.0,legal,common,Artifact,1997
+Yellow Scarves General,37.88,,['R'],4.0,legal,rare,Creature — Human Soldier,1999
+Livonya Silone,37.8,,"['G', 'R']",6.0,legal,rare,Legendary Creature — Human Warrior,1994
+City of Ass,37.62,382.29,[],0.0,not_legal,rare,Land,2004
+"Wolverine, Best There Is",37.62,,"['G', 'R']",3.0,legal,mythic,Legendary Creature — Mutant Berserker Hero,2024
+Bloodthirsty Conqueror,37.56,38.8,['B'],5.0,legal,mythic,Creature — Vampire Knight,2024
+Tainted Pact,37.55,493.85,['B'],2.0,legal,rare,Instant,2001
+"Yawgmoth, Thran Physician",37.29,38.16,['B'],4.0,legal,mythic,Legendary Creature — Human Cleric,2023
+"Delney, Streetwise Lookout",37.24,39.2,['W'],3.0,legal,mythic,Legendary Creature — Human Scout,2024
+Lady Evangela,36.93,,"['B', 'U', 'W']",3.0,legal,rare,Legendary Creature — Human Cleric,1994
+"Shizo, Death's Storehouse",36.88,,[],0.0,legal,rare,Legendary Land,2022
+"Ugin, Eye of the Storms",36.75,36.9,[],7.0,legal,mythic,Legendary Planeswalker — Ugin,2025
+Buster Sword,36.74,37.67,[],3.0,legal,mythic,Artifact — Equipment,2025
+Field of the Dead,36.31,49.61,[],0.0,legal,rare,Land,2019
+Solitude,36.3,29.59,['W'],5.0,legal,mythic,Creature — Elemental Incarnation,2021
+Bitterblossom,36.11,32.15,['B'],2.0,legal,mythic,Kindred Enchantment — Faerie,2022
+Quantum Riddler,36.06,44.03,['U'],5.0,legal,mythic,Creature — Sphinx,2025
+"Sima Yi, Wei Field Marshal",35.8,,['B'],6.0,legal,rare,Legendary Creature — Human Soldier,1999
+Tangle Wire,35.78,198.95,[],3.0,legal,rare,Artifact,2000
+"Ghyrson Starn, Kelermorph",35.72,,"['R', 'U']",3.0,legal,rare,Legendary Creature — Tyranid Human,2022
+Scythecat Cub,35.61,,['G'],2.0,legal,rare,Creature — Cat,2024
+Doubling Season,35.55,34.33,['G'],5.0,legal,mythic,Enchantment,2024
+Prismatic Vista,35.53,41.95,[],0.0,legal,rare,Land,2019
+Pixie Queen,35.49,,['G'],4.0,legal,rare,Creature — Faerie,1994
+Opalescence,35.47,312.11,['W'],4.0,legal,rare,Enchantment,1999
+Parallax Wave,35.08,540.0,['W'],4.0,legal,rare,Enchantment,2000
+Hunting Cheetah,34.8,,['G'],3.0,legal,uncommon,Creature — Cat,1999
+Bloodletter of Aclazotz,34.66,33.21,['B'],4.0,legal,mythic,Creature — Vampire Demon,2023
+Master of the Hunt,34.63,,['G'],4.0,legal,rare,Creature — Human,1994
+"Ulamog, the Infinite Gyre",34.48,38.73,[],11.0,legal,mythic,Legendary Creature — Eldrazi,2022
+Telekinesis,34.37,,['U'],2.0,legal,rare,Instant,1994
+Mycosynth Golem,34.34,129.37,[],11.0,legal,rare,Artifact Creature — Golem,2004
+Throne of Eldraine,34.33,36.61,[],5.0,legal,rare,Legendary Artifact,2023
+"Avacyn, Angel of Hope",34.3,32.81,['W'],8.0,legal,mythic,Legendary Creature — Angel,2023
+Talon Gates of Madara,34.14,,[],0.0,legal,rare,Land — Gate,2024
+Memory Jar,34.08,324.0,[],5.0,legal,rare,Artifact,1999
+Burgeoning,33.98,,['G'],1.0,legal,rare,Enchantment,2016
+The Fifteenth Doctor,33.76,36.58,"['R', 'U']",4.0,legal,rare,Legendary Creature — Time Lord Doctor,2023
+"Rev, Tithe Extractor",33.72,,['B'],4.0,legal,rare,Legendary Creature — Human Rogue,2024
+Sword of Truth and Justice,33.61,40.97,[],3.0,legal,mythic,Artifact — Equipment,2019
+"Captain America, First Avenger",33.55,,"['R', 'U', 'W']",3.0,legal,mythic,Legendary Creature — Human Soldier Hero,2024
+Chromatic Orrery,33.49,35.97,[],7.0,legal,mythic,Legendary Artifact,2020
+Consecrated Sphinx,33.45,35.48,['U'],6.0,legal,mythic,Creature — Sphinx,2022
+"Etali, Primal Conqueror // Etali, Primal Sickness",33.35,37.34,[],7.0,legal,rare,Legendary Creature — Elder Dinosaur // Legendary Creature — Phyrexian Elder Dinosaur,2023
+Dolmen Gate,33.21,58.29,[],2.0,legal,rare,Artifact,2007
+Decree of Silence,33.17,68.41,['U'],8.0,legal,rare,Enchantment,2003
+The Ur-Dragon,33.13,39.91,"['B', 'G', 'R', 'U', 'W']",9.0,legal,mythic,Legendary Creature — Dragon Avatar,2023
+"Ashling, the Extinguisher",32.78,59.87,['B'],4.0,legal,rare,Legendary Creature — Elemental Shaman,2008
+Necropotence,32.72,22.51,['B'],3.0,legal,mythic,Enchantment,2017
+"Thassa, Deep-Dwelling",32.57,29.54,['U'],4.0,legal,mythic,Legendary Enchantment Creature — God,2020
+Enlightened Tutor,32.53,33.3,['W'],1.0,legal,rare,Instant,2023
+Blightsteel Colossus,32.51,47.59,[],12.0,legal,mythic,Artifact Creature — Phyrexian Golem,2020
+All Will Be One,32.51,33.37,['R'],5.0,legal,mythic,Enchantment,2023
+Agatha's Soul Cauldron,32.15,32.79,[],2.0,legal,mythic,Legendary Artifact,2023
+Mortuary,32.12,,['B'],4.0,legal,rare,Enchantment,1998
+Sakashima of a Thousand Faces,32.07,40.07,['U'],4.0,legal,mythic,Legendary Creature — Human Rogue,2020
+Serra Ascendant,31.98,56.91,['W'],1.0,legal,rare,Creature — Human Monk,2017
+Razorclaw Bear,31.64,,['G'],4.0,legal,rare,Creature — Bear,1998
+Parallel Lives,31.59,44.49,['G'],4.0,legal,rare,Enchantment,2011
+Ad Nauseam,31.46,69.5,['B'],5.0,legal,rare,Instant,2020
+"Wort, Boggart Auntie",31.46,48.61,"['B', 'R']",4.0,legal,rare,Legendary Creature — Goblin Shaman,2007
+Worldfire,31.32,84.52,['R'],9.0,legal,mythic,Sorcery,2012
+Grave Pact,31.17,28.13,['B'],4.0,legal,mythic,Enchantment,2023
+"Sea Gate Restoration // Sea Gate, Reborn",31.07,35.27,[],7.0,legal,mythic,Sorcery // Land,2020
+Super Shredder,31.04,35.24,['B'],2.0,legal,mythic,Legendary Creature — Mutant Ninja Human,2026
+Scalding Tarn,31.0,31.41,[],0.0,legal,rare,Land,2021
+Misty Rainforest,30.97,30.79,[],0.0,legal,rare,Land,2021
+Cabal Coffers,30.94,34.17,[],0.0,legal,mythic,Land,2021
+Savage Order,30.8,30.2,['G'],4.0,legal,rare,Sorcery,2023
+Blacker Lotus,30.77,,[],0.0,not_legal,rare,Artifact,1998
+Crucible of Worlds,30.71,34.82,[],3.0,legal,mythic,Artifact,2022
+Mithril Coat,30.6,28.39,[],3.0,legal,rare,Legendary Artifact — Equipment,2023
+Exploration,30.5,29.75,['G'],1.0,legal,rare,Enchantment,2023
+Halfdane,30.49,,"['B', 'U', 'W']",4.0,legal,rare,Legendary Creature — Shapeshifter,1994
+"Halvar, God of Battle // Sword of the Realms",30.32,27.93,[],4.0,legal,mythic,Legendary Creature — God // Legendary Artifact — Equipment,2021
+Sandals of Abdallah,30.28,,[],4.0,legal,uncommon,Artifact,1993
+Akroma's Memorial,30.08,48.15,[],7.0,legal,mythic,Legendary Artifact,2021
+Ancient Gold Dragon,30.01,31.42,['W'],7.0,legal,mythic,Creature — Elder Dragon,2022
+"Maha, Its Feathers Night",29.96,38.15,['B'],5.0,legal,mythic,Legendary Creature — Elemental Bird,2024
+Last March of the Ents,29.9,33.12,['G'],8.0,legal,mythic,Sorcery,2023
+Bloodthirster,29.87,,['R'],6.0,legal,rare,Creature — Demon,2022
+Sakashima's Student,29.86,,['U'],4.0,legal,rare,Creature — Human Ninja,2016
+Firestorm Phoenix,29.79,,['R'],6.0,legal,rare,Creature — Phoenix,1994
+The Walls of Ba Sing Se,29.78,32.38,[],8.0,legal,mythic,Legendary Artifact Creature — Wall,2025
+Cathedral of Serra,29.68,,[],0.0,legal,uncommon,Land,1994
+Natural Order,29.61,35.12,['G'],4.0,legal,mythic,Sorcery,2016
+"Liu Bei, Lord of Shu",29.48,,['W'],5.0,legal,rare,Legendary Creature — Human Soldier,1999
+Luxury Suite,29.39,30.96,[],0.0,legal,rare,Land,2022
+Tiller Engine,29.24,,[],2.0,legal,rare,Artifact Creature — Construct,2022
+City of Solitude,29.12,,['G'],3.0,legal,rare,Enchantment,1997
+Zodiac Ox,29.09,,['G'],4.0,legal,uncommon,Creature — Ox,1999
+Dust Bowl,29.08,203.23,[],0.0,legal,rare,Land,1999
+Poison Arrow,28.98,,['B'],6.0,legal,uncommon,Sorcery,1999
+"Ojer Taq, Deepest Foundation // Temple of Civilization",28.97,34.97,[],6.0,legal,mythic,Legendary Creature — God // Land,2023
+Braid of Fire,28.97,43.54,['R'],2.0,legal,rare,Enchantment,2006
+Portal to Phyrexia,28.95,27.56,[],9.0,legal,mythic,Artifact,2022
+Simulacrum Synthesizer,28.93,31.36,['U'],3.0,legal,mythic,Artifact,2024
+Stoneforge Mystic,28.82,32.04,['W'],2.0,legal,rare,Creature — Kor Artificer,2020
+Preacher,28.78,,['W'],3.0,legal,rare,Creature — Human Cleric,1994
+Wei Night Raiders,28.73,,['B'],4.0,legal,uncommon,Creature — Human Soldier,1999
+Displacer Kitten,28.72,26.85,['U'],4.0,legal,rare,Creature — Cat Beast,2022
+Arid Mesa,28.64,29.1,[],0.0,legal,rare,Land,2021
+Trouble in Pairs,28.58,,['W'],4.0,legal,rare,Enchantment,2024
+Undiscovered Paradise,28.45,,[],0.0,legal,rare,Land,1997
+Call Forth the Tempest,28.45,24.11,['R'],8.0,legal,rare,Sorcery,2023
+"Mikaeus, the Unhallowed",28.38,24.01,['B'],6.0,legal,mythic,Legendary Creature — Zombie Cleric,2023
+Verdant Catacombs,28.31,28.76,[],0.0,legal,rare,Land,2021
+Terror of the Peaks,28.3,29.3,['R'],5.0,legal,mythic,Creature — Dragon,2024
+"Zask, Skittering Swarmlord",28.27,,['G'],5.0,legal,rare,Legendary Creature — Insect,2022
+Nyxbloom Ancient,28.19,27.85,['G'],7.0,legal,mythic,Enchantment Creature — Elemental,2020
+Aggravated Assault,28.02,78.83,['R'],3.0,legal,rare,Enchantment,2002
+Mana Confluence,27.95,47.8,[],0.0,legal,rare,Land,2014
+Rockslide Ambush,27.94,,['R'],2.0,legal,uncommon,Sorcery,1999
+Heavy Fog,27.93,,['G'],2.0,legal,uncommon,Instant,1999
+Sphere of Resistance,27.87,,[],2.0,legal,rare,Artifact,1998
+Goblin Sharpshooter,27.85,,['R'],3.0,legal,rare,Creature — Goblin,2013
+Twinflame Tyrant,27.83,29.41,['R'],5.0,legal,mythic,Creature — Dragon,2024
+Ring of Immortals,27.78,,[],5.0,legal,rare,Artifact,1994
+The Celestial Toymaker,27.78,34.43,"['B', 'U', 'W']",3.0,legal,rare,Legendary Creature — Rogue Artificer,2023
+Legolas's Quick Reflexes,27.76,27.95,['G'],1.0,legal,rare,Instant,2023
+"Birgi, God of Storytelling // Harnfel, Horn of Bounty",27.71,29.16,[],3.0,legal,rare,Legendary Creature — God // Legendary Artifact,2021
+Panoptic Mirror,27.66,63.62,[],5.0,legal,rare,Artifact,2004
+Tithe,27.64,,['W'],1.0,legal,rare,Instant,1997
+Overlord of the Balemurk,27.64,28.28,['B'],5.0,legal,mythic,Enchantment Creature — Avatar Horror,2024
+Life Finds a Way,27.64,32.33,['G'],3.0,legal,rare,Enchantment,2023
+"Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",27.6,27.31,[],3.0,legal,mythic,Legendary Creature — Human Avatar Soldier // Legendary Creature — Angel Nightmare Avatar,2025
+Faerie Mastermind,27.48,29.31,['U'],2.0,legal,rare,Creature — Faerie Rogue,2023
+Helm of Obedience,27.39,,[],4.0,legal,rare,Artifact,1996
+Vaultborn Tyrant,27.38,32.1,['G'],7.0,legal,mythic,Creature — Dinosaur,2024
+Dream Halls,27.34,,['U'],5.0,legal,rare,Enchantment,1998
+Winding Canyons,27.28,,[],0.0,legal,rare,Land,1997
+Galadriel's Dismissal,27.17,22.82,['W'],1.0,legal,rare,Instant,2023
+Quicksilver Elemental,27.07,69.66,['U'],5.0,legal,rare,Creature — Elemental,2003
+"Celestine, the Living Saint",27.03,,['W'],5.0,legal,rare,Legendary Creature — Human Warrior,2022
+"Solphim, Mayhem Dominus",26.89,27.19,['R'],4.0,legal,mythic,Legendary Creature — Phyrexian Horror,2023
+Mirri's Guile,26.88,,['G'],1.0,legal,rare,Enchantment,1997
+Dystopia,26.82,,['B'],3.0,legal,rare,Enchantment,1996
+Abeyance,26.8,,['W'],2.0,legal,rare,Instant,1997
+Grim Tutor,26.67,26.18,['B'],3.0,legal,mythic,Sorcery,2020
+Vivi Ornitier,26.6,31.59,"['R', 'U']",3.0,legal,mythic,Legendary Creature — Wizard,2025
+Marsh Flats,26.52,26.56,[],0.0,legal,rare,Land,2021
+Wolverine Riders,26.49,,['G'],6.0,legal,rare,Creature — Elf Warrior,2021
+Sylvan Library,26.42,27.62,['G'],2.0,legal,mythic,Enchantment,2023
+Delighted Halfling,26.37,22.65,['G'],1.0,legal,rare,Creature — Halfling Citizen,2023
+Scroll Rack,26.33,24.31,[],2.0,legal,mythic,Artifact,2020
+Torment of Hailfire,26.32,35.71,['B'],2.0,legal,rare,Sorcery,2017
+"Preston, the Vanisher",26.27,,['W'],4.0,legal,rare,Legendary Creature — Rabbit Wizard,2022
+"Storm, Force of Nature",26.26,,"['G', 'R', 'U']",4.0,legal,mythic,Legendary Creature — Mutant Hero,2024
+Vexilus Praetor,26.2,,['W'],4.0,legal,rare,Creature — Custodes Warrior,2022
+Aura Shards,26.15,,"['G', 'W']",3.0,legal,uncommon,Enchantment,2011
+Tsabo's Web,26.13,90.67,[],2.0,legal,rare,Artifact,2000
+"Rin and Seri, Inseparable",26.12,,"['G', 'R', 'W']",4.0,legal,mythic,Legendary Creature — Dog Cat,2025
+Boris Devilboon,26.11,,"['B', 'R']",5.0,legal,rare,Legendary Creature — Zombie Wizard,1994
+"Ojer Axonil, Deepest Might // Temple of Power",26.07,36.61,[],4.0,legal,mythic,Legendary Creature — God // Land,2023
+Jacques le Vert,26.05,,"['G', 'R', 'W']",4.0,legal,rare,Legendary Creature — Human Warrior,1994
+Doubling Cube,25.94,69.95,[],2.0,legal,rare,Artifact,2007
+Nova Pentacle,25.93,,[],4.0,legal,rare,Artifact,1994
+Worldly Tutor,25.92,24.79,['G'],1.0,legal,rare,Instant,2023
+Land Tax,25.82,26.91,['W'],1.0,legal,mythic,Enchantment,2023
+"Atraxa, Praetors' Voice",25.72,27.72,"['B', 'G', 'U', 'W']",4.0,legal,mythic,Legendary Creature — Phyrexian Angel Horror,2020
+Corpse Dance,25.64,,['B'],3.0,legal,rare,Instant,1997
+"Ghalta, Stampede Tyrant",25.62,28.49,['G'],8.0,legal,mythic,Legendary Creature — Elder Dinosaur,2023
+Exalted Flamer of Tzeentch,25.52,,"['R', 'U']",4.0,legal,rare,Creature — Demon,2022
+Reset,25.5,,['U'],2.0,legal,uncommon,Instant,1994
+North Star,25.46,,[],4.0,legal,rare,Artifact,1994
+Zagoth Triome,25.43,21.25,[],0.0,legal,rare,Land — Swamp Forest Island,2020
+"Toph, Greatest Earthbender",25.38,18.01,"['G', 'R']",4.0,legal,rare,Legendary Creature — Human Warrior Ally,2025
+Battle Angels of Tyr,25.3,24.24,['W'],4.0,legal,mythic,Creature — Angel Knight,2022
+Control of the Court,25.29,,['R'],2.0,legal,uncommon,Sorcery,1999
+Undercity Sewers,25.24,25.99,[],0.0,legal,rare,Land — Island Swamp,2024
+Attunement,25.16,,['U'],3.0,legal,rare,Enchantment,1998
+Morphic Pool,25.14,25.44,[],0.0,legal,rare,Land,2022
+Lady Caleria,25.11,,"['G', 'W']",7.0,legal,rare,Legendary Creature — Elf Archer,1994
+Ragnar,25.11,,"['G', 'U', 'W']",3.0,legal,rare,Legendary Creature — Human Cleric,1994
+"Otawara, Soaring City",25.1,26.01,[],0.0,legal,rare,Legendary Land,2022
+Deadly Rollick,24.98,27.11,['B'],4.0,legal,rare,Instant,2023
+Reverberation,24.95,,['U'],4.0,legal,rare,Instant,1994
+Exquisite Blood,24.91,,['B'],5.0,legal,rare,Enchantment,2023
+Barrowgoyf,24.89,,['B'],3.0,legal,rare,Creature — Lhurgoyf,2024
+Plague of Vermin,24.85,65.24,['B'],7.0,legal,rare,Sorcery,2008
+Mox Lotus,24.8,,[],15.0,not_legal,rare,Artifact,2004
+The Meathook Massacre,24.75,24.53,['B'],2.0,legal,mythic,Legendary Enchantment,2025
+Golgothian Sylex,24.55,,[],4.0,legal,rare,Artifact,1994
+"Karlach, Fury of Avernus",24.53,25.11,['R'],5.0,legal,mythic,Legendary Creature — Tiefling Barbarian,2022
+Glacial Chasm,24.5,,[],0.0,legal,uncommon,Land,1995
+Army of Allah,24.44,,['W'],3.0,legal,common,Instant,1993
+No Mercy,24.44,23.76,['B'],4.0,legal,mythic,Enchantment,2023
+Zodiac Rooster,24.43,,['G'],2.0,legal,common,Creature — Bird,1999
+"Purphoros, God of the Forge",24.41,25.81,['R'],4.0,legal,mythic,Legendary Enchantment Creature — God,2023
+Avatar of Growth,24.37,,['G'],6.0,legal,mythic,Creature — Elemental Avatar,2018
+Kodama of the West Tree,24.32,21.69,['G'],3.0,legal,mythic,Legendary Creature — Spirit,2022
+Masako the Humorless,24.3,43.72,['W'],3.0,legal,rare,Legendary Creature — Human Advisor,2004
+Urza's Miter,24.3,,[],3.0,legal,rare,Artifact,1994
+Opposition Agent,24.29,26.57,['B'],3.0,legal,rare,Creature — Human Rogue,2020
+Jovial Evil,24.17,,['B'],3.0,legal,rare,Sorcery,1994
+"Lumra, Bellow of the Woods",24.16,30.61,['G'],6.0,legal,mythic,Legendary Creature — Elemental Bear,2024
+Nesting Dovehawk,24.11,,['W'],4.0,legal,rare,Creature — Bird,2023
+Welcome to . . . // Jurassic Park,24.0,35.41,[],3.0,legal,rare,Enchantment — Saga // Legendary Land,2023
+Ranger-Captain of Eos,23.92,55.67,['W'],3.0,legal,mythic,Creature — Human Soldier Ranger,2019
+Riverpyre Verge,23.69,24.53,[],0.0,legal,rare,Land,2025
+Phyrexian Tower,23.5,25.08,[],0.0,legal,mythic,Legendary Land,2024
+Great Whale,23.31,,['U'],7.0,legal,rare,Creature — Whale,1998
+The Meep,23.27,31.02,['B'],3.0,legal,rare,Legendary Creature — Alien,2023
+"Nissa, Resurgent Animist",23.12,21.33,['G'],3.0,legal,mythic,Legendary Creature — Elf Scout,2023
+"Ulamog, the Ceaseless Hunger",23.11,22.52,[],10.0,legal,mythic,Legendary Creature — Eldrazi,2023
+"Heliod, Sun-Crowned",22.95,20.81,['W'],3.0,legal,mythic,Legendary Enchantment Creature — God,2023
+Barbarian General,22.93,,['R'],5.0,legal,uncommon,Creature — Human Barbarian Soldier,1999
+Reaver Titan,22.89,,[],7.0,legal,rare,Artifact — Vehicle,2022
+Mesmeric Orb,22.89,26.47,[],2.0,legal,rare,Artifact,2020
+Darksteel Monolith,22.88,,[],8.0,legal,rare,Artifact,2023
+"Galadriel, Light of Valinor",22.84,20.72,"['G', 'U', 'W']",5.0,legal,mythic,Legendary Creature — Elf Noble,2023
+Darkness,22.78,88.75,['B'],1.0,legal,special,Instant,2006
+Triumph of the Hordes,22.57,48.16,['G'],4.0,legal,uncommon,Sorcery,2011
+Urza's Incubator,22.57,23.09,[],3.0,legal,rare,Artifact,2024
+"Emeria, the Sky Ruin",22.56,,[],0.0,legal,rare,Land,2014
+Defense of the Heart,22.55,145.92,['G'],4.0,legal,rare,Enchantment,1999
+Vedalken Orrery,22.46,20.88,[],4.0,legal,rare,Artifact,2022
+Tiamat,22.45,19.97,"['B', 'G', 'R', 'U', 'W']",7.0,legal,mythic,Legendary Creature — Dragon God,2021
+Krark-Clan Ironworks,22.44,96.98,[],4.0,legal,uncommon,Artifact,2004
+Thassa's Oracle,22.38,22.77,['U'],2.0,legal,rare,Creature — Merfolk Wizard,2020
+Wasteland,22.34,28.5,[],0.0,legal,rare,Land,2016
+Bone Miser,22.22,,['B'],5.0,legal,rare,Creature — Zombie Wizard,2019
+Sire of Seven Deaths,22.05,26.85,[],7.0,legal,mythic,Creature — Eldrazi,2024
+Powerleech,22.01,,['G'],2.0,legal,uncommon,Enchantment,1994
+Chronicle of Victory,21.95,27.86,[],6.0,legal,mythic,Legendary Artifact,2026
+"Hansk, Slayer Zealot",21.93,,"['G', 'R']",4.0,legal,mythic,Legendary Creature — Human Archer,2023
+Constant Mists,21.92,,['G'],2.0,legal,uncommon,Instant,1998
+Wave of Reckoning,21.9,,['W'],5.0,legal,rare,Sorcery,2016
+Fiery Emancipation,21.82,25.96,['R'],6.0,legal,mythic,Enchantment,2020
+Archfiend of Despair,21.81,22.69,['B'],8.0,legal,mythic,Creature — Demon,2023
+Thawing Glaciers,21.78,,[],0.0,legal,rare,Land,1996
+Eternity Vessel,21.78,45.14,[],6.0,legal,mythic,Artifact,2009
+"Bitterthorn, Nissa's Animus",21.77,,[],3.0,legal,rare,Legendary Artifact — Equipment,2023
+Void Winnower,21.75,47.57,[],9.0,legal,mythic,Creature — Eldrazi,2015
+Tezzeret the Seeker,21.75,31.92,['U'],5.0,legal,mythic,Legendary Planeswalker — Tezzeret,2015
+"Krang, Utrom Warlord",21.72,25.82,[],9.0,legal,mythic,Legendary Artifact Creature — Utrom Robot,2026
+"Linvala, Keeper of Silence",21.65,,['W'],4.0,legal,mythic,Legendary Creature — Angel,2020
+"Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar",21.58,23.99,[],1.0,legal,mythic,Legendary Creature — Moonfolk Wizard // Legendary Planeswalker — Tamiyo,2024
+The Aetherspark,21.56,21.94,[],4.0,legal,mythic,Legendary Artifact Planeswalker — Equipment,2025
+It That Betrays,21.56,,[],12.0,legal,rare,Creature — Eldrazi,2023
+"Oloro, Ageless Ascetic",21.49,,"['B', 'U', 'W']",6.0,legal,mythic,Legendary Creature — Giant Soldier,2013
+Bartel Runeaxe,21.49,,"['B', 'G', 'R']",6.0,legal,rare,Legendary Creature — Giant Warrior,1994
+"Tergrid, God of Fright // Tergrid's Lantern",21.49,17.78,[],5.0,legal,rare,Legendary Creature — God // Legendary Artifact,2021
+"Elesh Norn, Mother of Machines",21.41,21.52,['W'],5.0,legal,mythic,Legendary Creature — Phyrexian Praetor,2023
+"Kaito, Bane of Nightmares",21.41,23.95,"['B', 'U']",4.0,legal,mythic,Legendary Planeswalker — Kaito,2024
+Beseech the Mirror,21.31,26.46,['B'],4.0,legal,mythic,Sorcery,2023
+Uncivil Unrest,21.14,,['R'],5.0,legal,rare,Enchantment,2023
+Goblin Lackey,21.06,,['R'],1.0,legal,uncommon,Creature — Goblin,1998
+Noetic Scales,21.06,,[],4.0,legal,rare,Artifact,1998
+Season of the Witch,21.05,,['B'],3.0,legal,rare,Enchantment,1994
+Sword of Kaldra,21.05,66.96,[],4.0,legal,rare,Legendary Artifact — Equipment,2003
+Dosan the Falling Leaf,21.02,130.58,['G'],3.0,legal,rare,Legendary Creature — Human Monk,2004
+Forethought Amulet,21.0,,[],5.0,legal,rare,Artifact,1994
+Timber Protector,20.98,24.3,['G'],5.0,legal,rare,Creature — Treefolk Warrior,2007
+"Sheoldred, Whispering One",20.96,,['B'],7.0,legal,mythic,Legendary Creature — Phyrexian Praetor,2020
+Icetill Explorer,20.94,23.6,['G'],4.0,legal,rare,Creature — Insect Scout,2025
+Zodiac Rabbit,20.83,,['G'],1.0,legal,common,Creature — Rabbit,1999
+"Agadeem's Awakening // Agadeem, the Undercrypt",20.81,21.28,[],3.0,legal,mythic,Sorcery // Land,2020
+Crypt Ghast,20.8,16.84,['B'],4.0,legal,rare,Creature — Spirit,2024
+"Oboro, Palace in the Clouds",20.79,172.94,[],0.0,legal,rare,Legendary Land,2005
+Concordant Crossroads,20.69,21.57,['G'],1.0,legal,mythic,World Enchantment,2022
+Aetherflux Reservoir,20.67,34.28,[],4.0,legal,rare,Artifact,2016
+Uktabi Kong,20.67,74.99,['G'],8.0,not_legal,rare,Creature — Ape,2004
+Savai Triome,20.54,19.22,[],0.0,legal,rare,Land — Mountain Plains Swamp,2020
+Trinisphere,20.53,25.94,[],3.0,legal,mythic,Artifact,2020
+The Destined Black Mage,20.5,16.14,['B'],3.0,legal,rare,Legendary Creature — Human Wizard,2025
+"Iron Man, Titan of Innovation",20.47,,"['R', 'U']",5.0,legal,mythic,Legendary Artifact Creature — Human Hero,2024
+Three Tree City,20.37,22.77,[],0.0,legal,rare,Legendary Land,2024
+"Ob Nixilis, Captive Kingpin",20.34,19.14,"['B', 'R']",4.0,legal,mythic,Legendary Creature — Demon,2023
+Morphling,20.31,,['U'],5.0,legal,rare,Creature — Shapeshifter,1998
+Norin the Wary,20.26,42.72,['R'],1.0,legal,rare,Legendary Creature — Human Warrior,2006
+Indatha Triome,20.13,17.33,[],0.0,legal,rare,Land — Plains Swamp Forest,2020
+Strip Mine,20.11,,[],0.0,legal,uncommon,Land,1995
+Forest Bear,20.1,,['G'],2.0,legal,common,Creature — Bear,1999
+"Emrakul, the Aeons Torn",20.05,19.66,[],15.0,banned,mythic,Legendary Creature — Eldrazi,2022
+Sceptre of Eternal Glory,20.05,,[],4.0,legal,rare,Legendary Artifact,2022
+Sword of Hearth and Home,19.97,21.26,[],3.0,legal,mythic,Artifact — Equipment,2021
+Life Matrix,19.9,,[],4.0,legal,rare,Artifact,1994
+Lifeblood,19.85,,['W'],4.0,legal,rare,Enchantment,1994
+"Deadpool, Trading Card",19.85,,"['B', 'R']",4.0,legal,mythic,Legendary Creature — Mutant Mercenary Hero,2025
+Attrition,19.85,,['B'],3.0,legal,rare,Enchantment,2011
+Voice of Victory,19.84,19.26,['W'],2.0,legal,rare,Creature — Human Bard,2025
+Bloodchief Ascension,19.83,19.77,['B'],1.0,legal,rare,Enchantment,2023
+"Tinybones, Trinket Thief",19.76,,['B'],2.0,legal,mythic,Legendary Creature — Skeleton Rogue,2020
+Thornbite Staff,19.72,50.25,[],2.0,legal,uncommon,Kindred Artifact — Shaman Equipment,2008
+Waves of Aggression,19.7,62.07,"['R', 'W']",5.0,legal,rare,Sorcery,2008
+Tarnished Citadel,19.62,275.0,[],0.0,legal,rare,Land,2001
+Damnation,19.6,20.97,['B'],4.0,legal,rare,Sorcery,2022
+Persistent Constrictor,19.56,,['B'],5.0,legal,rare,Creature — Zombie Snake,2024
+The Cabbage Merchant,19.53,22.76,['G'],3.0,legal,rare,Legendary Creature — Human Citizen,2025
+Awaken the Woods,19.51,18.76,['G'],2.0,legal,mythic,Sorcery,2022
+Green Sun's Zenith,19.5,20.65,['G'],1.0,legal,rare,Sorcery,2022
+Ward of Bones,19.48,99.61,[],6.0,legal,rare,Artifact,2008
+Twinning Staff,19.46,,[],3.0,legal,rare,Artifact,2022
+"Black Panther, Wakandan King",19.46,,"['G', 'W']",2.0,legal,mythic,Legendary Creature — Human Noble Hero,2024
+Master of Ceremonies,19.42,,['W'],4.0,legal,rare,Creature — Rhino Druid,2022
+Unwinding Clock,19.42,,[],4.0,legal,rare,Artifact,2018
+Summon: Bahamut,19.42,18.64,[],9.0,legal,mythic,Enchantment Creature — Saga Dragon,2025
+"Kokusho, the Evening Star",19.38,36.02,['B'],6.0,legal,rare,Legendary Creature — Dragon Spirit,2017
+Monument to Endurance,19.37,18.23,[],3.0,legal,rare,Artifact,2025
+Meditate,19.36,,['U'],3.0,legal,rare,Instant,1997
+Palantír of Orthanc,19.27,21.0,[],3.0,legal,mythic,Legendary Artifact,2023
+"Shinka, the Bloodsoaked Keep",19.16,60.54,[],0.0,legal,rare,Legendary Land,2004
+"Ulamog, the Defiler",19.16,23.48,[],10.0,legal,mythic,Legendary Creature — Eldrazi,2024
+Sarkhan Unbroken,19.16,23.68,"['G', 'R', 'U']",5.0,legal,mythic,Legendary Planeswalker — Sarkhan,2015
+Sword of Wealth and Power,19.07,20.92,[],3.0,legal,mythic,Artifact — Equipment,2024
+"Oathkeeper, Takeno's Daisho",19.07,29.17,[],3.0,legal,rare,Legendary Artifact — Equipment,2004
+Knuckles the Echidna,19.03,,['R'],4.0,legal,mythic,Legendary Creature — Echidna Warrior,2025
+Commissar Severina Raine,19.03,,"['B', 'W']",3.0,legal,rare,Legendary Creature — Human Soldier,2022
+Contagion Engine,19.0,19.43,[],6.0,legal,rare,Artifact,2010
+Polluted Delta,18.94,19.66,[],0.0,legal,rare,Land,2024
+Horn of Greed,18.94,21.8,[],3.0,legal,rare,Artifact,2016
+Flawless Maneuver,18.92,19.61,['W'],3.0,legal,rare,Instant,2023
+Wu Spy,18.88,,['U'],2.0,legal,uncommon,Creature — Human Soldier Rogue,1999
+Snapcaster Mage,18.85,26.33,['U'],2.0,legal,mythic,Creature — Human Wizard,2018
+"Indominus Rex, Alpha",18.84,27.21,"['B', 'G', 'U']",5.0,legal,rare,Legendary Creature — Dinosaur Mutant,2023
+Yawgmoth's Bargain,18.84,270.0,['B'],6.0,banned,rare,Enchantment,1999
+Hexing Squelcher,18.81,19.21,['R'],2.0,legal,rare,Creature — Goblin Sorcerer,2026
+"Thada Adel, Acquisitor",18.78,38.88,['U'],3.0,legal,rare,Legendary Creature — Merfolk Rogue,2010
+Spiritual Sanctuary,18.72,,['W'],4.0,legal,rare,Enchantment,1994
+Cryptothrall,18.68,,[],4.0,legal,rare,Artifact Creature — Construct,2022
+Sword of Body and Mind,18.64,19.93,[],3.0,legal,mythic,Artifact — Equipment,2020
+"Miren, the Moaning Well",18.64,93.31,[],0.0,legal,rare,Legendary Land,2005
+"Myrel, Shield of Argive",18.6,18.05,['W'],4.0,legal,mythic,Legendary Creature — Human Soldier,2022
+"Gisela, the Broken Blade",18.58,22.99,['W'],4.0,legal,mythic,Legendary Creature — Angel Horror,2025
+Charismatic Conqueror,18.56,,['W'],2.0,legal,rare,Creature — Vampire Soldier,2023
+Gosta Dirk,18.49,,"['U', 'W']",7.0,legal,rare,Legendary Creature — Human Warrior,1994
+Ancient Bronze Dragon,18.49,18.63,['G'],7.0,legal,mythic,Creature — Elder Dragon,2022
+Campsite Cuisine,18.46,15.07,['G'],2.0,legal,rare,Enchantment,2025
+Typhoon,18.36,,['G'],3.0,legal,rare,Sorcery,1994
+Cavalier of Dawn,18.22,6.97,['W'],5.0,legal,mythic,Creature — Elemental Knight,2019
+"Nicol Bolas, the Ravager // Nicol Bolas, the Arisen",18.11,37.75,[],4.0,legal,mythic,Legendary Creature — Elder Dragon // Legendary Planeswalker — Bolas,2018
+Jetmir's Garden,18.07,17.78,[],0.0,legal,rare,Land — Mountain Forest Plains,2022
+"Sauron, the Dark Lord",18.05,18.39,"['B', 'R', 'U']",6.0,legal,mythic,Legendary Creature — Avatar Horror,2023
+Wooded Foothills,18.04,19.85,[],0.0,legal,rare,Land,2024
+"Cloud, Midgar Mercenary",18.03,23.03,['W'],2.0,legal,mythic,Legendary Creature — Human Soldier Mercenary,2025
+Alchor's Tomb,17.98,,[],4.0,legal,rare,Artifact,1994
+Kindred Dominance,17.98,15.23,['B'],7.0,legal,rare,Sorcery,2023
+Merrow Commerce,17.97,30.0,['U'],2.0,legal,uncommon,Kindred Enchantment — Merfolk,2007
+Craterhoof Behemoth,17.94,19.33,['G'],8.0,legal,mythic,Creature — Beast,2025
+"Avatar Kyoshi, Earthbender",17.85,23.49,['G'],8.0,legal,mythic,Legendary Creature — Human Avatar,2025
+Mages' Contest,17.83,102.07,['R'],3.0,legal,rare,Instant,2000
+Biophagus,17.81,,['G'],2.0,legal,rare,Creature — Human Tyranid Wizard,2022
+Sundial of the Infinite,17.78,24.12,[],2.0,legal,rare,Artifact,2011
+Utvara Hellkite,17.74,27.42,['R'],8.0,legal,mythic,Creature — Dragon,2024
+Archmage of Echoes,17.74,,['U'],5.0,legal,rare,Creature — Faerie Wizard,2023
+"Amzu, Swarm's Hunger",17.72,,"['B', 'G']",5.0,legal,rare,Legendary Creature — Insect Shaman,2024
+"Esika, God of the Tree // The Prismatic Bridge",17.71,19.64,[],3.0,legal,mythic,Legendary Creature — God // Legendary Enchantment,2021
+Devastation,17.7,,['R'],7.0,legal,rare,Sorcery,1999
+"Katara, Waterbending Master",17.68,26.12,['U'],2.0,legal,mythic,Legendary Creature — Human Warrior Ally,2025
+Pact of Negation,17.68,32.33,['U'],0.0,legal,rare,Instant,2021
+"Tezzeret, Cruel Captain",17.67,19.48,[],3.0,legal,mythic,Legendary Planeswalker — Tezzeret,2025
+Marrow-Gnawer,17.64,44.6,['B'],5.0,legal,rare,Legendary Creature — Rat Rogue,2004
+Steely Resolve,17.64,62.68,['G'],2.0,legal,rare,Enchantment,2002
+Karlov of the Ghost Council,17.63,17.19,"['B', 'W']",2.0,legal,mythic,Legendary Creature — Spirit Advisor,2024
+Urza's Workshop,17.59,17.47,[],0.0,legal,rare,Land — Urza's,2022
+Platinum Emperion,17.54,23.43,[],8.0,legal,mythic,Artifact Creature — Golem,2018
+Urborg,17.54,,[],0.0,legal,uncommon,Legendary Land,1994
+Thrumming Stone,17.53,16.82,[],5.0,legal,rare,Legendary Artifact,2022
+Flayer of Loyalties,17.53,,[],10.0,legal,rare,Creature — Eldrazi,2023
+Norn's Choirmaster,17.49,,['W'],5.0,legal,rare,Creature — Phyrexian Angel,2023
+Dockside Extortionist,17.49,27.84,['R'],2.0,banned,mythic,Creature — Goblin Pirate,2022
+"Elesh Norn, Grand Cenobite",17.44,41.65,['W'],7.0,legal,mythic,Legendary Creature — Phyrexian Praetor,2017
+Dictate of Erebos,17.43,30.81,['B'],5.0,legal,rare,Enchantment,2014
+Malleable Impostor,17.41,,['U'],4.0,legal,rare,Creature — Faerie Shapeshifter,2023
+Ketria Triome,17.39,16.04,[],0.0,legal,rare,Land — Forest Island Mountain,2020
+Bountiful Promenade,17.38,17.28,[],0.0,legal,rare,Land,2022
+Mana Web,17.36,,[],3.0,legal,rare,Artifact,1997
+Tuknir Deathlock,17.36,,"['G', 'R']",4.0,legal,rare,Legendary Creature — Human Wizard,1994
+Illustrious Wanderglyph,17.33,15.94,['W'],5.0,legal,rare,Artifact Creature — Golem,2023
+Volrath's Shapeshifter,17.32,,['U'],3.0,legal,rare,Creature — Phyrexian Shapeshifter,1998
+Grim Hireling,17.32,,['B'],4.0,legal,rare,Creature — Tiefling Rogue,2022
+"Indoraptor, the Perfect Hybrid",17.3,25.64,"['B', 'G', 'R']",3.0,legal,rare,Legendary Creature — Dinosaur Mutant,2023
+Vigor,17.29,36.79,['G'],6.0,legal,rare,Creature — Elemental Incarnation,2018
+Temporal Extortion,17.27,74.94,['B'],4.0,legal,rare,Sorcery,2007
+Krovikan Horror,17.24,,['B'],4.0,legal,rare,Creature — Horror Spirit,1996
+Themberchaud,17.23,,['R'],7.0,legal,rare,Legendary Creature — Dragon,2025
+B.F.M. (Big Furry Monster),17.21,,['B'],15.0,not_legal,rare,"Creature — The Biggest, Baddest, Nastiest,",1998
+Reverent Mantra,17.18,96.2,['W'],4.0,legal,rare,Instant,1999
+Delayed Blast Fireball,17.17,,['R'],3.0,legal,rare,Instant,2022
+Bloodstained Mire,17.15,17.16,[],0.0,legal,rare,Land,2024
+Sylvan Paradise,17.13,,['G'],1.0,legal,uncommon,Instant,1994
+Sliver Hivelord,17.13,,"['B', 'G', 'R', 'U', 'W']",5.0,legal,mythic,Legendary Creature — Sliver,2023
+Bitterbloom Bearer,17.1,20.96,['B'],2.0,legal,mythic,Creature — Faerie Rogue,2026
+Psychic Possession,17.1,50.35,['U'],4.0,legal,rare,Enchantment — Aura,2006
+Ur-Drago,17.07,,"['B', 'U']",7.0,legal,rare,Legendary Creature — Elemental,1994
+Hall of the Bandit Lord,17.05,46.11,[],0.0,legal,rare,Legendary Land,2004
+Astral Dragon,17.04,,['U'],8.0,legal,rare,Creature — Dragon,2022
+Sakashima the Impostor,17.01,104.99,['U'],4.0,legal,rare,Legendary Creature — Human Rogue,2005
+Sigarda's Aid,17.0,,['W'],1.0,legal,rare,Enchantment,2020
+"Jace, the Mind Sculptor",16.99,20.33,['U'],4.0,legal,mythic,Legendary Planeswalker — Jace,2020
+Raugrin Triome,16.98,15.35,[],0.0,legal,rare,Land — Island Mountain Plains,2020
+Pyrohemia,16.97,,['R'],4.0,legal,uncommon,Enchantment,2017
+"Ashaya, Soul of the Wild",16.96,,['G'],5.0,legal,mythic,Legendary Creature — Elemental,2024
+Wanderwine Prophets,16.95,54.52,['U'],6.0,legal,rare,Creature — Merfolk Wizard,2007
+Treasonous Ogre,16.93,62.19,['R'],4.0,legal,uncommon,Creature — Ogre Shaman,2014
+"Avatar Roku, Firebender",16.83,22.59,['R'],6.0,legal,mythic,Legendary Creature — Human Avatar,2025
+Grand Arbiter Augustin IV,16.83,17.11,"['U', 'W']",4.0,legal,rare,Legendary Creature — Human Advisor,2022
+Altar of Dementia,16.8,15.27,[],2.0,legal,rare,Artifact,2019
+Mold Demon,16.79,,['B'],7.0,legal,rare,Creature — Fungus Demon,1994
+Debt of Loyalty,16.77,,['W'],3.0,legal,rare,Instant,1997
+Show and Tell,16.72,28.98,['U'],3.0,legal,mythic,Sorcery,2016
+Gisa's Favorite Shovel,16.72,,['B'],2.0,legal,mythic,Legendary Artifact — Equipment,2023
+"Karn, Silver Golem",16.72,,[],5.0,legal,rare,Legendary Artifact Creature — Golem,1998
+Polyraptor,16.71,18.0,['G'],8.0,legal,mythic,Creature — Dinosaur,2018
+Shadow in the Warp,16.71,,"['G', 'R']",3.0,legal,rare,Enchantment,2022
+Eunuchs' Intrigues,16.7,,['R'],3.0,legal,uncommon,Sorcery,1999
+"Toxrill, the Corrosive",16.62,17.38,['B'],7.0,legal,mythic,Legendary Creature — Slug Horror,2021
+Revel in Riches,16.62,19.52,['B'],5.0,legal,rare,Enchantment,2017
+Tyvar the Bellicose,16.62,16.24,"['B', 'G']",4.0,legal,mythic,Legendary Creature — Elf Warrior,2023
+Mossborn Hydra,16.59,19.72,['G'],3.0,legal,rare,Creature — Elemental Hydra,2024
+"Phenax, God of Deception",16.54,32.18,"['B', 'U']",5.0,legal,mythic,Legendary Enchantment Creature — God,2014
+Canoptek Spyder,16.51,,[],5.0,legal,rare,Artifact Creature — Spider,2022
+Sea of Clouds,16.45,19.58,[],0.0,legal,rare,Land,2022
+Sickening Shoal,16.43,96.51,['B'],2.0,legal,rare,Instant — Arcane,2005
+Sheoldred // The True Scriptures,16.39,16.75,[],5.0,legal,mythic,Legendary Creature — Phyrexian Praetor // Enchantment — Saga,2023
+Grand Abolisher,16.38,15.71,['W'],2.0,legal,mythic,Creature — Human Cleric,2024
+Flooded Strand,16.37,18.56,[],0.0,legal,rare,Land,2024
+Mystical Tutor,16.33,15.93,['U'],1.0,legal,rare,Instant,2023
+Wood Elemental,16.32,,['G'],4.0,legal,rare,Creature — Elemental,1994
+B.F.M. (Big Furry Monster),16.32,,['B'],15.0,not_legal,rare,Scariest Creature You'll Ever See,1998
+Unmask,16.29,285.5,['B'],4.0,legal,rare,Sorcery,1999
+Black Market Connections,16.29,,['B'],3.0,legal,rare,Enchantment,2023
+Sarcomancy,16.25,,['B'],1.0,legal,rare,Enchantment,1997
+Coat of Arms,16.24,,[],5.0,legal,rare,Artifact,2017
+Armageddon,16.23,16.16,['W'],4.0,legal,mythic,Sorcery,2018
+Unbound Flourishing,16.19,17.76,['G'],3.0,legal,mythic,Enchantment,2019
+"Evendo, Waking Haven",16.16,17.12,[],0.0,legal,mythic,Land — Planet,2025
+Aura Thief,16.13,79.33,['U'],4.0,legal,rare,Creature — Illusion,1999
+Soul Spike,16.1,65.13,['B'],7.0,legal,rare,Instant,2006
+Arcum Dagsson,16.1,18.68,['U'],4.0,legal,mythic,Legendary Creature — Human Artificer,2020
+Font of Mythos,16.06,42.05,[],4.0,legal,rare,Artifact,2009
+Wand of Orcus,16.03,,['B'],3.0,legal,rare,Legendary Artifact — Equipment,2021
+Bolas's Citadel,16.02,18.12,['B'],6.0,legal,rare,Legendary Artifact,2019
+Traveling Chocobo,16.01,18.81,['G'],3.0,legal,mythic,Creature — Bird,2025
+Entomb,15.98,14.97,['B'],1.0,legal,rare,Instant,2023
+"Alela, Cunning Conqueror",15.97,16.09,"['B', 'U']",4.0,legal,mythic,Legendary Creature — Faerie Warlock,2023
+Seize the Spotlight,15.95,,['R'],3.0,legal,rare,Sorcery,2024
+Galadhrim Brigade,15.91,12.27,['G'],3.0,legal,rare,Creature — Elf Soldier,2023
+Exalted Sunborn,15.89,17.08,['W'],5.0,legal,mythic,Creature — Angel Wizard,2025
+Spectator Seating,15.89,16.3,[],0.0,legal,rare,Land,2023
+Nazgûl Battle-Mace,15.86,15.82,[],5.0,legal,rare,Artifact — Equipment,2023
+Bothersome Quasit,15.79,,['R'],3.0,legal,rare,Creature — Demon,2022
+Illusions of Grandeur,15.77,,['U'],4.0,legal,rare,Enchantment,1995
+Atomize,15.76,15.41,"['B', 'G']",4.0,legal,rare,Instant,2024
+Spara's Headquarters,15.74,15.66,[],0.0,legal,rare,Land — Forest Plains Island,2022
+Underground Mortuary,15.72,15.06,[],0.0,legal,rare,Land — Swamp Forest,2024
+Molten Echoes,15.69,,['R'],4.0,legal,rare,Enchantment,2021
+Ashnod's Altar,15.61,14.76,[],3.0,legal,uncommon,Artifact,2023
+Spellseeker,15.61,14.99,['U'],3.0,legal,mythic,Creature — Human Wizard,2023
+False Defeat,15.6,,['W'],4.0,legal,common,Sorcery,1999
+"The Ghoul, Gunslinger",15.6,15.72,['B'],3.0,legal,mythic,Legendary Creature — Zombie Mutant Rogue,2026
+Balefire Dragon,15.55,15.46,['R'],7.0,legal,mythic,Creature — Dragon,2023
+Cover of Darkness,15.51,92.31,['B'],2.0,legal,rare,Enchantment,2002
+Haunting Wind,15.5,,['B'],4.0,legal,uncommon,Enchantment,1994
+Sliver Hive,15.49,35.59,[],0.0,legal,rare,Land,2014
+Goblin Welder,15.49,,['R'],1.0,legal,rare,Creature — Goblin Artificer,2018
+Dance of the Dead,15.48,,['B'],2.0,legal,uncommon,Enchantment — Aura,1995
+Faces of the Past,15.48,19.94,['U'],3.0,legal,rare,Enchantment,2003
+Lighthouse Chronologist,15.47,62.49,['U'],2.0,legal,mythic,Creature — Human Wizard,2010
+"Mona Lisa, Ever Adaptable",15.46,,['G'],4.0,legal,rare,Legendary Creature — Lizard Mutant,2026
+"Rashel, Fist of Torm",15.45,,['W'],4.0,legal,rare,Legendary Creature — Human Knight,2025
+Warg Rider,15.41,,['B'],5.0,legal,rare,Creature — Orc Warrior,2023
+"Valgavoth, Terror Eater",15.38,16.54,['B'],9.0,legal,mythic,Legendary Creature — Elder Demon,2024
+"Valakut, the Molten Pinnacle",15.36,29.68,[],0.0,legal,rare,Land,2009
+Captain Sisay,15.34,174.5,"['G', 'W']",4.0,legal,rare,Legendary Creature — Human Soldier,2000
+Species Specialist,15.32,,['B'],4.0,legal,rare,Creature — Human Warrior,2020
+Arcbound Ravager,15.31,20.42,[],2.0,legal,rare,Artifact Creature — Beast,2013
+Reiterate,15.3,21.39,['R'],3.0,legal,rare,Instant,2021
+Kjeldoran Outpost,15.3,,[],0.0,legal,rare,Land,1996
+Starfield of Nyx,15.3,,['W'],5.0,legal,mythic,Enchantment,2023
+Warren Soultrader,15.27,15.66,['B'],3.0,legal,rare,Creature — Zombie Goblin Wizard,2024
+Pathbreaker Ibex,15.27,,['G'],6.0,legal,rare,Creature — Goat,2017
+Court of Garenbrig,15.23,15.72,['G'],3.0,legal,rare,Enchantment,2023
+Nuka-Cola Vending Machine,15.23,15.61,[],3.0,legal,rare,Artifact,2026
+Go-Shintai of Life's Origin,15.21,21.45,['G'],4.0,legal,mythic,Legendary Enchantment Creature — Shrine,2022
+Gloomlake Verge,15.2,19.86,[],0.0,legal,rare,Land,2024
+Isochron Scepter,15.17,23.63,[],2.0,legal,rare,Artifact,2020
+Kor Haven,15.14,95.05,[],0.0,legal,rare,Legendary Land,2000
+"Zuko, Firebending Master",15.14,19.58,['R'],2.0,legal,mythic,Legendary Creature — Human Noble Ally,2025
+Wooded Bastion,15.11,15.38,[],0.0,legal,rare,Land,2020
+Thousand-Year Elixir,15.09,,[],3.0,legal,rare,Artifact,2021
+Cavern-Hoard Dragon,15.08,,['R'],9.0,legal,rare,Creature — Dragon,2023
+Grinding Station,15.08,108.39,[],2.0,legal,uncommon,Artifact,2004
+Corrosive Mentor,15.08,15.98,['B'],3.0,legal,uncommon,Creature — Elemental Rogue,2008
+Misleading Signpost,15.06,,['U'],3.0,legal,rare,Artifact,2023
+Super State,15.04,,[],7.0,legal,mythic,Legendary Enchantment — Aura,2025
+Grave Sifter,15.0,,['G'],6.0,legal,rare,Creature — Elemental Beast,2017
+Moonshadow,15.0,17.24,['B'],1.0,legal,mythic,Creature — Elemental,2026
+Ziatora's Proving Ground,14.93,14.5,[],0.0,legal,rare,Land — Swamp Mountain Forest,2022
+Scion of Oona,14.92,20.58,['U'],3.0,legal,rare,Creature — Faerie Soldier,2013
+Relentless Dead,14.92,12.19,['B'],2.0,legal,mythic,Creature — Zombie,2016
+Tidal Barracuda,14.91,,['U'],4.0,legal,rare,Creature — Fish,2020
+Spark Double,14.9,13.1,['U'],4.0,legal,rare,Creature — Illusion,2024
+Birthing Pod,14.88,36.15,['G'],4.0,legal,rare,Artifact,2011
+Thunderhawk Gunship,14.87,,[],6.0,legal,rare,Artifact — Vehicle,2022
+Rise of the Eldrazi,14.84,,[],12.0,legal,rare,Sorcery,2023
+Vault of Champions,14.82,14.05,[],0.0,legal,rare,Land,2023
+Winds of Change,14.81,,['R'],1.0,legal,rare,Sorcery,1997
+Hammer of Nazahn,14.81,18.14,[],4.0,legal,rare,Legendary Artifact — Equipment,2023
+Elder Spawn,14.79,,['U'],7.0,legal,rare,Creature — Spawn,1994
+Cataclysm,14.77,,['W'],4.0,legal,rare,Sorcery,1998
+Mudslide,14.76,,['R'],3.0,legal,rare,Enchantment,1995
+Training Center,14.73,13.53,[],0.0,legal,rare,Land,2023
+Culling the Weak,14.69,,['B'],1.0,legal,common,Instant,1998
+"Yavimaya, Cradle of Growth",14.69,17.79,[],0.0,legal,rare,Legendary Land,2021
+"Keranos, God of Storms",14.68,17.52,"['R', 'U']",5.0,legal,mythic,Legendary Enchantment Creature — God,2014
+Akroma's Will,14.67,,['W'],4.0,legal,rare,Instant,2023
+Echo of Eons,14.66,59.09,['U'],6.0,legal,mythic,Sorcery,2019
+Ureni of the Unwritten,14.65,7.7,"['G', 'R', 'U']",7.0,legal,mythic,Legendary Creature — Spirit Dragon,2025
+Currency Converter,14.59,,[],1.0,legal,rare,Artifact,2022
+Berserk,14.59,26.65,['G'],1.0,legal,mythic,Instant,2016
+Harabaz Druid,14.58,36.41,['G'],2.0,legal,rare,Creature — Human Druid Ally,2010
+Seize the Day,14.55,15.45,['R'],4.0,legal,rare,Sorcery,2018
+Mindbreak Trap,14.54,234.24,['U'],4.0,legal,mythic,Instant — Trap,2009
+Final Fortune,14.51,,['R'],2.0,legal,rare,Instant,2001
+Static Orb,14.48,,[],3.0,legal,rare,Artifact,2001
+Karakas,14.48,14.9,[],0.0,banned,mythic,Legendary Land,2018
+Artificer Class,14.48,,['U'],2.0,legal,rare,Enchantment — Class,2022
+Cabal Ritual,14.47,125.51,['B'],2.0,legal,common,Instant,2002
+Sword of Light and Shadow,14.47,18.51,[],3.0,legal,mythic,Artifact — Equipment,2020
+Filigree Vector,14.46,,['W'],4.0,legal,rare,Artifact Creature — Phyrexian Construct,2023
+Urabrask // The Great Work,14.4,14.34,[],4.0,legal,mythic,Legendary Creature — Phyrexian Praetor // Enchantment — Saga,2023
+"Spider-Man, Peter Parker",14.4,18.24,['W'],5.0,legal,mythic,Legendary Creature — Spider Human Hero,2025
+False Mourning,14.34,,['G'],1.0,legal,uncommon,Sorcery,1999
+"Excalibur, Sword of Eden",14.32,14.47,[],12.0,legal,rare,Legendary Artifact — Equipment,2024
+Imperial Recruiter,14.3,17.32,['R'],3.0,legal,mythic,Creature — Human Advisor,2021
+Greater Auramancy,14.3,32.81,['W'],2.0,legal,rare,Enchantment,2008
+Descent into Avernus,14.28,15.02,['R'],3.0,legal,rare,Enchantment,2022
+Mana Vortex,14.25,,['U'],3.0,legal,rare,Enchantment,1994
+Expropriate,14.25,50.13,['U'],9.0,legal,mythic,Sorcery,2016
+"Iroas, God of Victory",14.22,,"['R', 'W']",4.0,legal,mythic,Legendary Enchantment Creature — God,2016
+Bilbo's Ring,14.22,,[],3.0,legal,rare,Legendary Artifact — Equipment,2023
+"Dihada, Binder of Wills",14.15,13.84,"['B', 'R', 'W']",4.0,legal,mythic,Legendary Planeswalker — Dihada,2022
+Danny Pink,14.14,18.27,['U'],4.0,legal,rare,Legendary Creature — Human Soldier Advisor,2023
+Beacon of Immortality,14.13,30.0,['W'],6.0,legal,rare,Instant,2007
+Quantum Misalignment,14.12,14.31,['U'],5.0,legal,rare,Sorcery,2023
+Wheel and Deal,14.12,26.66,['U'],4.0,legal,rare,Instant,2002
+"Muxus, Goblin Grandee",14.12,,['R'],6.0,legal,rare,Legendary Creature — Goblin Noble,2020
+Bitter Ordeal,14.09,59.99,['B'],3.0,legal,rare,Sorcery,2007
+Tyvar Kell,14.09,13.86,['G'],4.0,legal,mythic,Legendary Planeswalker — Tyvar,2021
+Spawning Kraken,14.07,,['U'],6.0,legal,rare,Creature — Kraken,2021
+Koskun Falls,14.07,,['B'],4.0,legal,rare,World Enchantment,1995
+Harsh Justice,14.04,,['W'],3.0,legal,rare,Instant,1997
+Brilliant Wings,14.03,13.44,['W'],2.0,legal,rare,Enchantment — Aura,2025
+Hammerheim,14.02,,[],0.0,legal,uncommon,Legendary Land,1994
+"Greensleeves, Maro-Sorcerer",14.01,15.32,['G'],5.0,legal,mythic,Legendary Creature — Elemental Sorcerer,2022
+Goblin Bomb,14.0,,['R'],2.0,legal,rare,Enchantment,1997
+Xander's Lounge,13.99,14.05,[],0.0,legal,rare,Land — Island Swamp Mountain,2022
+Boon Reflection,13.99,15.84,['W'],5.0,legal,rare,Enchantment,2020
+Reaper King,13.99,50.57,"['B', 'G', 'R', 'U', 'W']",10.0,legal,rare,Legendary Artifact Creature — Scarecrow,2008
+Birds of Paradise,13.99,13.51,['G'],1.0,legal,rare,Creature — Bird,2024
+Orochi Soul-Reaver,13.96,,['B'],6.0,legal,rare,Creature — Snake Ninja Rogue,2024
+"Atraxa, Grand Unifier",13.92,13.94,"['B', 'G', 'U', 'W']",7.0,legal,mythic,Legendary Creature — Phyrexian Angel,2023
+"Dionus, Elvish Archdruid",13.92,,['G'],4.0,legal,uncommon,Legendary Creature — Elf Druid,2024
+Homeward Path,13.92,,[],0.0,legal,rare,Land,2016
+Dino DNA,13.91,16.05,[],1.0,legal,rare,Artifact,2023
+Confusion in the Ranks,13.91,58.99,['R'],5.0,legal,rare,Enchantment,2003
+Forsaken Wastes,13.86,,['B'],3.0,legal,rare,World Enchantment,1996
+Ashnod's Coupon,13.85,,[],0.0,not_legal,rare,Artifact,1998
+Honor the Fallen,13.85,37.62,['W'],2.0,legal,rare,Instant,1999
+"Kiki-Jiki, Mirror Breaker",13.84,17.19,['R'],5.0,legal,mythic,Legendary Creature — Goblin Shaman,2017
+Rotlung Reanimator,13.81,58.32,['B'],3.0,legal,rare,Creature — Zombie Cleric,2002
+"Emrakul, the Promised End",13.81,14.92,[],13.0,legal,mythic,Legendary Creature — Eldrazi,2025
+Ophidian Eye,13.77,104.38,['U'],3.0,legal,common,Enchantment — Aura,2006
+"Minas Morgul, Dark Fortress",13.76,14.3,[],0.0,legal,rare,Legendary Land,2023
+Elvish Champion,13.76,,['G'],3.0,legal,rare,Creature — Elf,2007
+"Urza, Lord High Artificer",13.74,15.65,['U'],4.0,legal,mythic,Legendary Creature — Human Artificer,2023
+Circle of Dreams Druid,13.71,10.34,['G'],3.0,legal,rare,Creature — Elf Druid,2021
+Diabolic Intent,13.67,13.9,['B'],2.0,legal,rare,Sorcery,2022
+"Vorinclex, Voice of Hunger",13.66,25.79,['G'],8.0,legal,mythic,Legendary Creature — Phyrexian Praetor,2017
+Gamble,13.66,14.01,['R'],1.0,legal,rare,Sorcery,2023
+Brainstealer Dragon,13.66,,['B'],7.0,legal,rare,Creature — Dragon Horror,2024
+"Casal, Lurkwood Pathfinder // Casal, Pathbreaker Owlbear",13.63,,[],4.0,legal,rare,Legendary Creature — Tiefling Druid // Legendary Creature — Bird Bear,2025
+Sunbillow Verge,13.62,15.7,[],0.0,legal,rare,Land,2025
+"Athreos, God of Passage",13.6,37.97,"['B', 'W']",3.0,legal,mythic,Legendary Enchantment Creature — God,2014
+Jeweled Amulet,13.56,,[],0.0,legal,uncommon,Artifact,1995
+Realms Uncharted,13.56,57.1,['G'],3.0,legal,rare,Instant,2010
+Underworld Breach,13.52,13.8,['R'],2.0,legal,rare,Enchantment,2020
+"Taeko, the Patient Avalanche",13.5,,['U'],4.0,legal,mythic,Legendary Creature — Turtle Ninja,2024
+Emiel the Blessed,13.46,11.46,['W'],4.0,legal,mythic,Legendary Creature — Unicorn,2022
+"Phlage, Titan of Fire's Fury",13.4,13.44,"['R', 'W']",3.0,legal,mythic,Legendary Creature — Elder Giant,2024
+Guardian Project,13.4,11.51,['G'],4.0,legal,mythic,Enchantment,2024
+Seedtime,13.35,68.03,['G'],2.0,legal,rare,Instant,2002
+Valakut Awakening // Valakut Stoneforge,13.35,13.79,[],3.0,legal,rare,Instant // Land,2020
+Robe of Stars,13.34,,['W'],2.0,legal,rare,Artifact — Equipment,2021
+"Razaketh, the Foulblooded",13.33,14.29,['B'],8.0,legal,mythic,Legendary Creature — Demon,2023
+Necromancy,13.33,,['B'],3.0,legal,uncommon,Enchantment,2024
+Cavalier of Night,13.31,9.5,['B'],5.0,legal,mythic,Creature — Elemental Knight,2019
+Mindcrank,13.29,,[],2.0,legal,uncommon,Artifact,2022
+"April O'Neil, Human Element",13.27,,['U'],4.0,legal,rare,Legendary Creature — Human Detective,2026
+Didgeridoo,13.27,,[],1.0,legal,rare,Artifact,1995
+"Bumi, Eclectic Earthbender",13.26,16.88,['G'],5.0,legal,rare,Legendary Creature — Human Noble Ally,2025
+Sphere Grid,13.26,,['G'],2.0,legal,rare,Enchantment,2025
+Time Warp,13.24,46.62,['U'],5.0,legal,mythic,Sorcery,2009
+Kindred Discovery,13.22,,['U'],5.0,legal,rare,Enchantment,2023
+"Doran, the Siege Tower",13.21,9.25,"['B', 'G', 'W']",3.0,legal,rare,Legendary Creature — Treefolk Shaman,2022
+Quarum Trench Gnomes,13.21,,['R'],4.0,legal,rare,Creature — Gnome,1994
+Stolen Grain,13.2,,['B'],6.0,legal,uncommon,Sorcery,1999
+Fishing Gear,13.2,11.32,[],3.0,legal,rare,Artifact — Equipment,2025
+Choice of Damnations,13.18,27.28,['B'],6.0,legal,rare,Sorcery — Arcane,2005
+Heroic Intervention,13.18,13.81,['G'],2.0,legal,rare,Instant,2023
+Moonshaker Cavalry,13.17,13.19,['W'],8.0,legal,mythic,Creature — Spirit Knight,2023
+Raffine's Tower,13.17,14.92,[],0.0,legal,rare,Land — Plains Island Swamp,2022
+Thundering Falls,13.16,14.07,[],0.0,legal,rare,Land — Island Mountain,2024
+Lurking Predators,13.16,,['G'],6.0,legal,rare,Enchantment,2020
+Ugin's Labyrinth,13.14,13.55,[],0.0,legal,mythic,Land,2024
+Nazgûl,13.09,16.14,['B'],3.0,legal,uncommon,Creature — Wraith Knight,2023
+Chalice of the Void,13.08,21.19,[],0.0,legal,mythic,Artifact,2018
+Meticulous Archive,13.07,15.2,[],0.0,legal,rare,Land — Plains Island,2024
+Skittering Cicada,13.06,,[],3.0,legal,rare,Creature — Insect,2023
+Sapling of Colfenor,13.06,,"['B', 'G']",5.0,legal,rare,Legendary Creature — Treefolk Shaman,2021
+"Aang, Airbending Master",13.05,17.79,['W'],5.0,legal,mythic,Legendary Creature — Human Avatar Ally,2025
+Undead Warchief,13.04,,['B'],4.0,legal,uncommon,Creature — Zombie,2009
+Benefactor's Draught,13.02,,['G'],2.0,legal,rare,Instant,2016
+Inventors' Fair,13.01,21.32,[],0.0,legal,rare,Legendary Land,2016
+Paradise Mantle,12.98,18.9,[],0.0,legal,uncommon,Artifact — Equipment,2013
+Out of the Tombs,12.98,,['B'],3.0,legal,rare,Enchantment,2022
+Cityscape Leveler,12.98,15.18,[],8.0,legal,mythic,Artifact Creature — Construct,2022
+Collective Restraint,12.98,85.0,['U'],4.0,legal,rare,Enchantment,2000
+Generous Patron,12.98,15.69,['G'],3.0,legal,rare,Creature — Elf Advisor,2018
+Price of Glory,12.97,40.5,['R'],3.0,legal,uncommon,Enchantment,2001
+Krark's Thumb,12.95,23.33,[],2.0,legal,rare,Legendary Artifact,2003
+Fire Nation Turret,12.94,9.89,['R'],3.0,legal,rare,Artifact,2025
+"Kinnan, Bonder Prodigy",12.93,21.86,"['G', 'U']",2.0,legal,mythic,Legendary Creature — Human Druid,2020
+Cloudstone Curio,12.93,11.32,[],3.0,legal,mythic,Artifact,2024
+"Valgavoth, Harrower of Souls",12.9,13.85,"['B', 'R']",4.0,legal,mythic,Legendary Creature — Elder Demon,2024
+Bonehoard Dracosaur,12.87,14.05,['R'],5.0,legal,mythic,Creature — Dinosaur Dragon,2023
+Sage of Hours,12.84,44.23,['U'],2.0,legal,mythic,Creature — Human Wizard,2014
+Power Fist,12.84,12.8,['G'],2.0,legal,rare,Artifact — Equipment,2024
+Crackle with Power,12.84,14.35,['R'],2.0,legal,mythic,Sorcery,2021
+Poxwalkers,12.82,,['B'],3.0,legal,rare,Creature — Zombie,2022
+Resurrection Orb,12.81,,[],2.0,legal,rare,Artifact — Equipment,2022
+Ancient Greenwarden,12.75,,['G'],6.0,legal,mythic,Creature — Elemental,2024
+Mother of Runes,12.74,,['W'],1.0,legal,uncommon,Creature — Human Cleric,2022
+"Ozolith, the Shattered Spire",12.74,12.51,['G'],2.0,legal,rare,Legendary Artifact,2023
+Catalyst Stone,12.73,21.81,[],2.0,legal,rare,Artifact,2001
+Chivalric Alliance,12.72,,['W'],2.0,legal,rare,Enchantment,2023
+Contamination,12.7,,['B'],3.0,legal,rare,Enchantment,1998
+Infinite Authority,12.69,,['W'],3.0,legal,rare,Enchantment — Aura,1994
+Gilt-Leaf Archdruid,12.68,49.99,['G'],5.0,legal,rare,Creature — Elf Druid,2008
+Inkmoth Nexus,12.67,26.05,[],0.0,legal,rare,Land,2011
+Bontu's Monument,12.66,,[],3.0,legal,uncommon,Legendary Artifact,2022
+"Ugin, the Spirit Dragon",12.64,13.21,[],8.0,legal,mythic,Legendary Planeswalker — Ugin,2020
+Teleportation Circle,12.63,11.67,['W'],4.0,legal,rare,Enchantment,2021
+Teferi's Puzzle Box,12.63,,[],4.0,legal,rare,Artifact,2005
+Pyretic Ritual,12.62,20.52,['R'],2.0,legal,common,Instant,2010
+Eiganjo Castle,12.62,112.49,[],0.0,legal,rare,Legendary Land,2004
+Grindstone,12.62,,[],1.0,legal,rare,Artifact,1997
+"Karn, Legacy Reforged",12.61,11.61,[],5.0,legal,mythic,Legendary Artifact Creature — Golem,2023
+Lord of the Void,12.56,12.07,['B'],7.0,legal,mythic,Creature — Demon,2024
+Elderfang Venom,12.55,,"['B', 'G']",4.0,legal,rare,Enchantment,2021
+Luminarch Ascension,12.53,24.72,['W'],2.0,legal,rare,Enchantment,2018
+Hall of Gemstone,12.52,,['G'],3.0,legal,rare,World Enchantment,1996
+"Kaalia, Zenith Seeker",12.52,20.79,"['B', 'R', 'W']",3.0,legal,mythic,Legendary Creature — Human Cleric,2019
+Hedge Maze,12.49,13.62,[],0.0,legal,rare,Land — Forest Island,2024
+Goblin King,12.49,,['R'],3.0,legal,rare,Creature — Goblin,2007
+Kuldotha Forgemaster,12.49,8.61,[],5.0,legal,rare,Artifact Creature — Construct,2020
+Glistening Sphere,12.48,,[],3.0,legal,rare,Artifact,2023
+"Ral, Crackling Wit",12.48,14.94,"['R', 'U']",4.0,legal,mythic,Legendary Planeswalker — Ral,2024
+Silent Arbiter,12.48,,[],4.0,legal,rare,Artifact Creature — Construct,2023
+City on Fire,12.46,12.49,['R'],8.0,legal,rare,Enchantment,2023
+Zodiac Snake,12.45,,['B'],3.0,legal,common,Creature — Snake,1999
+Flamekin Harbinger,12.44,,['R'],1.0,legal,uncommon,Creature — Elemental Shaman,2009
+Primal Vigor,12.42,,['G'],5.0,legal,rare,Enchantment,2013
+Umezawa's Jitte,12.39,116.97,[],2.0,legal,rare,Legendary Artifact — Equipment,2005
+Crystal Spray,12.39,38.33,['U'],3.0,legal,rare,Instant,2000
+False Cure,12.38,36.43,['B'],2.0,legal,rare,Instant,2002
+Trickbind,12.37,64.91,['U'],2.0,legal,rare,Instant,2006
+Bloom Tender,12.37,14.94,['G'],2.0,legal,mythic,Creature — Elf Druid,2026
+Righteous Fury,12.36,,['W'],6.0,legal,rare,Sorcery,1999
+"Uthros, Titanic Godcore",12.35,12.67,[],0.0,legal,mythic,Land — Planet,2025
+Chronatog,12.34,,['U'],2.0,legal,rare,Creature — Atog,1997
+Cabal Stronghold,12.33,17.74,[],0.0,legal,rare,Land,2018
+"Rammas Echor, Ancient Shield",12.32,10.53,['W'],4.0,legal,rare,Legendary Artifact,2023
+Alert Shu Infantry,12.32,,['W'],3.0,legal,uncommon,Creature — Human Soldier,1999
+Khalni Hydra,12.31,37.74,['G'],8.0,legal,mythic,Creature — Hydra,2010
+Solemnity,12.31,17.88,['W'],3.0,legal,rare,Enchantment,2017
+Breeding Pool,12.29,12.07,[],0.0,legal,rare,Land — Forest Island,2025
+Red Elemental Blast,12.28,57.67,['R'],1.0,legal,uncommon,Instant,2018
+Lord of the Undead,12.26,11.96,['B'],3.0,legal,rare,Creature — Zombie,2007
+Ensnaring Bridge,12.25,10.99,[],3.0,legal,mythic,Artifact,2020
+Dracogenesis,12.24,9.34,['R'],8.0,legal,mythic,Enchantment,2025
+Mox Tantalite,12.24,22.34,[],0.0,legal,mythic,Artifact,2019
+Mirror Gallery,12.24,70.33,[],5.0,legal,rare,Artifact,2005
+Tribute to the World Tree,12.23,12.92,['G'],3.0,legal,rare,Enchantment,2023
+"Boseiju, Who Shelters All",12.23,33.94,[],0.0,legal,rare,Legendary Land,2004
+Liliana's Caress,12.2,31.13,['B'],2.0,legal,uncommon,Enchantment,2010
+Abhorrent Oculus,12.17,14.83,['U'],3.0,legal,mythic,Creature — Eye,2024
+Planar Nexus,12.17,,[],0.0,legal,rare,Land,2024
+Alhammarret's Archive,12.15,,[],5.0,legal,mythic,Legendary Artifact,2021
+"Surtr, Fiery Jötun",12.13,,['R'],5.0,legal,rare,Legendary Creature — Giant God Warrior,2024
+Phyrexian Furnace,12.13,,[],1.0,legal,uncommon,Artifact,1997
+Breathstealer's Crypt,12.12,,"['B', 'U']",4.0,legal,rare,Enchantment,1997
+Balthor the Defiled,12.1,105.0,['B'],4.0,legal,rare,Legendary Creature — Zombie Dwarf,2002
+Taoist Hermit,12.09,,['G'],3.0,legal,uncommon,Creature — Human Mystic,1999
+Everybody Lives!,12.08,13.21,['W'],2.0,legal,rare,Instant,2023
+Insidious Dreams,12.07,48.6,['B'],4.0,legal,rare,Instant,2002
+Contaminant Grafter,12.07,,['G'],5.0,legal,rare,Creature — Phyrexian Druid,2023
+"Azusa, Lost but Seeking",12.06,13.25,['G'],3.0,legal,rare,Legendary Creature — Human Monk,2023
+Chain of Vapor,12.06,,['U'],1.0,legal,uncommon,Instant,2016
+Cybermen Squadron,12.05,11.14,[],7.0,legal,rare,Artifact Creature — Cyberman,2023
+Nautiloid Ship,12.05,9.85,[],4.0,legal,mythic,Artifact — Vehicle,2022
+"Skithiryx, the Blight Dragon",12.04,14.01,['B'],5.0,legal,mythic,Legendary Creature — Phyrexian Dragon Skeleton,2020
+Temporal Manipulation,12.04,14.18,['U'],5.0,legal,mythic,Sorcery,2018
+Keeper of Secrets,11.99,,['R'],6.0,legal,rare,Creature — Demon,2022
+Meekstone,11.98,,[],1.0,legal,rare,Artifact,2001
+Jin-Gitaxias // The Great Synthesis,11.98,12.91,[],5.0,legal,mythic,Legendary Creature — Phyrexian Praetor // Enchantment — Saga,2023
+Phyresis Outbreak,11.96,,['B'],3.0,legal,rare,Sorcery,2023
+Blazemire Verge,11.96,12.08,[],0.0,legal,rare,Land,2024
+Multiversal Passage,11.95,12.85,[],0.0,legal,rare,Land,2025
+Shadowy Backstreet,11.93,12.53,[],0.0,legal,rare,Land — Plains Swamp,2024
+Seething Song,11.93,,['R'],3.0,legal,common,Instant,2021
+Sword of Sinew and Steel,11.92,21.07,[],3.0,legal,mythic,Artifact — Equipment,2019
+Damning Verdict,11.88,,['W'],5.0,legal,rare,Sorcery,2022
+"General Kreat, the Boltbringer",11.87,,['R'],3.0,legal,uncommon,Legendary Creature — Goblin Soldier,2024
+Watery Grave,11.86,12.51,[],0.0,legal,rare,Land — Island Swamp,2025
